@@ -1,0 +1,1 @@
+Decoupling is the principal of making components that make up a software/system depend on each other as least as possible. This is to ensure that changes in one component does not affect the performance on other components and its considered to be one of the most desirable software/system design principles nowadays.

@@ -1,0 +1,1 @@
+**Set-UID programs** are programs that can obtain root privileges even if executed by normal users. These programs' owner is root itself; when executed its' euid is the same as its' owner ID, therefore the euid can be root's ID rather than the executor's ID.

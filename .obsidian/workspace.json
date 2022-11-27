@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "18bbb77835dfdc4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b9e45eaa44fe386",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23d7612bbd69cfc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/Web design tips.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc6a5343220d22b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neurology, Biology, Medical stuff/Dopamine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da15b909f09bd754",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neurology, Biology, Medical stuff/Role of Serotonin and Dopamine in Psoriasis - A Case-Control Study.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af25431974b6fa96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neurology, Biology, Medical stuff/Serotonin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd78f628cf8bb9ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "7018a77354046aaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "077e7d1ab2ebdf38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0631b1e0da51c6d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0bf4d259fc41ffd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "64de0ee3f9d6d66f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "490a8d0a64b5be8f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Neurology, Biology, Medical stuff/Role of Serotonin and Dopamine in Psoriasis - A Case-Control Study.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "da15b909f09bd754",
+  "lastOpenFiles": [
+    "Neurology, Biology, Medical stuff/Dopamine.md",
+    "Neurology, Biology, Medical stuff/Serotonin.md",
+    "Tech/Web design tips.md",
+    "Tech/Untitled.md",
+    "Untitled.md",
+    "Tech/Attacks through env variables.md",
+    "Web design tips.md",
+    "TLS.md",
+    "DMZ (De-militarized zone).md",
+    "Single source of truth definition.md"
+  ]
+}

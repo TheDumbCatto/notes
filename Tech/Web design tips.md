@@ -1,0 +1,1 @@
+In a (blog) post, for every block of content that has different versions any of which should be enabled for viewing, there should be an option to switch viewing version for all of those blocks altogether in a single click.
