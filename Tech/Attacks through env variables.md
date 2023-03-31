@@ -18,7 +18,7 @@ The location of env variables in a program's [stack](Stack%20memory.md) is depic
 > $ echo $LOGNAME
 > seed
 > $ LOGNAME=bob
-> echo $LOGNAME
+> $ echo $LOGNAME
 > bob
 > $ strings /proc/\$$/environ | grep LOGNAME
 > LOGNAME=seed

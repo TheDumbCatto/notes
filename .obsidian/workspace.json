@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6b9e45eaa44fe386",
+        "id": "7b9bfe7af097a098",
         "type": "tabs",
         "children": [
           {
-            "id": "23d7612bbd69cfc0",
+            "id": "ea0fabee8f27104d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/Web design tips.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc6a5343220d22b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neurology, Biology, Medical stuff/Dopamine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da15b909f09bd754",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neurology, Biology, Medical stuff/Role of Serotonin and Dopamine in Psoriasis - A Case-Control Study.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af25431974b6fa96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neurology, Biology, Medical stuff/Serotonin.md",
+                "file": "Cyber range/Cyber range.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0bf4d259fc41ffd2",
@@ -114,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neurology, Biology, Medical stuff/Role of Serotonin and Dopamine in Psoriasis - A Case-Control Study.md",
+                "file": "Cyber range/Cyber range.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,19 +92,51 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "da15b909f09bd754",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "077e7d1ab2ebdf38",
   "lastOpenFiles": [
-    "Neurology, Biology, Medical stuff/Dopamine.md",
-    "Neurology, Biology, Medical stuff/Serotonin.md",
-    "Tech/Web design tips.md",
-    "Tech/Untitled.md",
-    "Untitled.md",
+    "Miscellaneous/Untitled.canvas",
+    "Tech/Windows Authentication Overview.canvas",
+    "CyRadar/Notes.md",
+    "CyRadar/Next actions.md",
+    "Untitled",
+    "CyRadar/ATD discussion.canvas",
+    "images/Pasted image 20230323104102.png",
+    "CyRadar/Zeek on ATD - functionalities.md",
+    "images/Pasted image 20230321173748.png",
+    "HackTheBox/Getting started.md",
+    "HackTheBox/Fawn.md",
+    "Practical_RE-Walkthrough-Chap1-28.canvas",
+    "Tech/Buffer Overflow.md",
+    "CyRadar/Zeek on ATD.md",
+    "Tech/Zeek.md",
+    "CyRadar/Zeek talk.md",
+    "Tech/DNS.md",
+    "images/Pasted image 20230314094425.png",
+    "Tech/TLS.md",
+    "Tech/Computer & Internet security index.md",
+    "Tech/Stack memory.md",
+    "School notes/PTHT TMDT.md",
+    "images/Pasted image 20230301151157.png",
+    "images/Pasted image 20230301140110.png",
+    "images/Pasted image 20230301135055.png",
+    "images/Pasted image 20230228172150.png",
+    "images/Pasted image 20230228163840.png",
+    "images/Pasted image 20230228163538.png",
+    "images/Pasted image 20230228162936.png",
+    "Tech/Markov's chain.md",
     "Tech/Attacks through env variables.md",
-    "Web design tips.md",
-    "TLS.md",
-    "DMZ (De-militarized zone).md",
-    "Single source of truth definition.md"
+    "Tech/XOR.md"
   ]
 }
