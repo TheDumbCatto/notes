@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"6f0f09f61e14f643","x":1744,"y":473,"width":250,"height":60,"type":"text","text":""},
 		{"type":"text","text":"**\\[ebp-6\\]** <= 8003F400h ?","id":"e1996a69a7bdd947","x":-200,"y":-340,"width":250,"height":60},
 		{"type":"text","text":"**\\[ebp-6\\]** >= 80047400h ?","id":"c55076a59f0d281a","x":-199,"y":-169,"width":250,"height":60},
 		{"type":"text","text":"**loc_CB9**\ncall **Process32First**\n**eax** == 0?","id":"cc8d13757f5911e2","x":-820,"y":-139,"width":250,"height":99},

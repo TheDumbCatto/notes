@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7b9bfe7af097a098",
+        "id": "907f8eda0afa9f6f",
         "type": "tabs",
         "children": [
           {
-            "id": "ea0fabee8f27104d",
+            "id": "4c449eda9090eb08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber range/Cyber range.md",
+                "file": "CyRadar/Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,6 +56,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "edbbf8b8c0c1ec94",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -77,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber range/Cyber range.md",
+                "file": "CyRadar/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,39 +112,48 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "077e7d1ab2ebdf38",
+  "active": "4c449eda9090eb08",
   "lastOpenFiles": [
+    "Tech/PSI - Private Sec Intersection.md",
+    "Tech/Security principles.md",
+    "Tech/REST architecture.md",
+    "Tech/UML.md",
+    "CyRadar/Notes.md",
+    "Tech/Set-UID Privileged programs and attacks on them.md",
+    "Tech/Computer & Internet security index.md",
+    "Tech/Markov's chain.md",
+    "Tech/Linux file permissions.md",
+    "Tech/Buffer Overflow.md",
+    "CyRadar/Next actions.md",
+    "Practical_RE-Walkthrough-Chap1-28.canvas",
+    "CyRadar/Zeek on ATD - functionalities.md",
+    "CyRadar/Zeek on ATD.md",
+    "CyRadar/Zeek talk.md",
+    "images/Pasted image 20230508143150.png",
+    "images/Pasted image 20230508142418.png",
+    "images/Pasted image 20230508104750.png",
+    "images/Pasted image 20230428095206.png",
+    "images/Pasted image 20230428095135.png",
+    "images/Pasted image 20230426142927.png",
+    "CyRadar/Web Application Firewall (WAF).md",
+    "CyRadar/OWASP ModSecurity.md",
+    "images/Pasted image 20230421142632.png",
+    "images/Pasted image 20230419162134.png",
+    "Miscellaneous/Phishing.md",
+    "images/Pasted image 20230407144700.png",
+    "images/Pasted image 20230407134739.png",
+    "CyRadar/ATD discussion.canvas",
+    "Cyber range/Cyber range.md",
     "Miscellaneous/Untitled.canvas",
     "Tech/Windows Authentication Overview.canvas",
-    "CyRadar/Notes.md",
-    "CyRadar/Next actions.md",
     "Untitled",
-    "CyRadar/ATD discussion.canvas",
-    "images/Pasted image 20230323104102.png",
-    "CyRadar/Zeek on ATD - functionalities.md",
-    "images/Pasted image 20230321173748.png",
     "HackTheBox/Getting started.md",
     "HackTheBox/Fawn.md",
-    "Practical_RE-Walkthrough-Chap1-28.canvas",
-    "Tech/Buffer Overflow.md",
-    "CyRadar/Zeek on ATD.md",
     "Tech/Zeek.md",
-    "CyRadar/Zeek talk.md",
     "Tech/DNS.md",
-    "images/Pasted image 20230314094425.png",
     "Tech/TLS.md",
-    "Tech/Computer & Internet security index.md",
     "Tech/Stack memory.md",
     "School notes/PTHT TMDT.md",
-    "images/Pasted image 20230301151157.png",
-    "images/Pasted image 20230301140110.png",
-    "images/Pasted image 20230301135055.png",
-    "images/Pasted image 20230228172150.png",
-    "images/Pasted image 20230228163840.png",
-    "images/Pasted image 20230228163538.png",
-    "images/Pasted image 20230228162936.png",
-    "Tech/Markov's chain.md",
-    "Tech/Attacks through env variables.md",
-    "Tech/XOR.md"
+    "Tech/Attacks through env variables.md"
   ]
 }
