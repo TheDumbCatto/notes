@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"2af15ab122aff512","x":-98,"y":-149,"width":250,"height":60,"color":"6","type":"text","text":"Menlo Private Access"},
+		{"id":"8724dcd586456f5a","x":-98,"y":63,"width":250,"height":60,"type":"text","text":"Multi-cloud from single connection"},
+		{"id":"ba35b1435bbe5bd2","x":-190,"y":-340,"width":250,"height":74,"type":"text","text":"Menlo global cloud"},
+		{"id":"b6662631957b0dd5","x":-700,"y":-340,"width":250,"height":60,"type":"text","text":"Portal"},
+		{"id":"81d24edfc26ebfae","x":-1200,"y":-340,"width":250,"height":60,"type":"text","text":"User"},
+		{"id":"6875828075fa50bc","x":-190,"y":-501,"width":250,"height":60,"type":"text","text":"AppConnector"},
+		{"id":"93295fa051fe2786","x":-190,"y":-660,"width":250,"height":60,"type":"text","text":"App (On-prem/Private/Public)"},
+		{"id":"0caa7f0897a5c88f","x":-757,"y":-169,"width":250,"height":60,"type":"text","text":"Flow"},
+		{"id":"66d7c06751600ff9","x":-1056,"y":-670,"width":250,"height":60,"type":"text","text":"SAML/Menlo DB"}
+	],
+	"edges":[
+		{"id":"0862c2c5cf8e3ca4","fromNode":"2af15ab122aff512","fromSide":"bottom","toNode":"8724dcd586456f5a","toSide":"top"},
+		{"id":"9d8a596518c66f5c","fromNode":"6875828075fa50bc","fromSide":"top","toNode":"93295fa051fe2786","toSide":"bottom","label":"sends req"},
+		{"id":"91bd0fe9544ee037","fromNode":"ba35b1435bbe5bd2","fromSide":"top","toNode":"6875828075fa50bc","toSide":"bottom","label":"sends req"},
+		{"id":"5df0d2b372007c83","fromNode":"81d24edfc26ebfae","fromSide":"right","toNode":"b6662631957b0dd5","toSide":"left","label":"access apps thru"},
+		{"id":"7ffa29b8826fda82","fromNode":"b6662631957b0dd5","fromSide":"right","toNode":"ba35b1435bbe5bd2","toSide":"left","label":"connects thru"},
+		{"id":"4326262b6bab7bd3","fromNode":"0caa7f0897a5c88f","fromSide":"left","toNode":"81d24edfc26ebfae","toSide":"bottom"},
+		{"id":"8f160832b7727578","fromNode":"2af15ab122aff512","fromSide":"left","toNode":"0caa7f0897a5c88f","toSide":"right"},
+		{"id":"02ff069dae6518d6","fromNode":"66d7c06751600ff9","fromSide":"bottom","toNode":"81d24edfc26ebfae","toSide":"top","label":"authenticates"}
+	]
+}

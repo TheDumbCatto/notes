@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"c248dc1f3582cb1d","x":-96,"y":-79,"width":250,"height":60,"color":"6","type":"text","text":"Defensics Fuzzing"},
+		{"id":"45ba467d17f6abb9","x":-543,"y":-25,"width":250,"height":60,"type":"text","text":"Generational fuzzing"},
+		{"id":"8b48b2711cb3b056","x":-223,"y":169,"width":250,"height":60,"type":"text","text":"SAST, SCA, IAST"},
+		{"id":"e51f03a4fb4011a9","x":340,"y":5,"width":250,"height":60,"type":"text","text":"Train monitoring solutions"},
+		{"id":"914bc9abe2296f79","x":340,"y":139,"width":250,"height":60,"type":"text","text":"Repeatable tests"},
+		{"id":"14fee44c7e769422","x":340,"y":-109,"width":250,"height":60,"type":"text","text":"Continuous testing"}
+	],
+	"edges":[
+		{"id":"00a2c4974faa404f","fromNode":"c248dc1f3582cb1d","fromSide":"left","toNode":"45ba467d17f6abb9","toSide":"right","label":"uses"},
+		{"id":"d0fd0dad3573666f","fromNode":"c248dc1f3582cb1d","fromSide":"bottom","toNode":"8b48b2711cb3b056","toSide":"top","label":"compliments"},
+		{"id":"3baf7230d5943eb3","fromNode":"e51f03a4fb4011a9","fromSide":"left","toNode":"c248dc1f3582cb1d","toSide":"right","label":"functionality of"},
+		{"id":"000cebba565e5bac","fromNode":"914bc9abe2296f79","fromSide":"left","toNode":"c248dc1f3582cb1d","toSide":"right","label":"functionality of"},
+		{"id":"98badb83a2045eb4","fromNode":"14fee44c7e769422","fromSide":"left","toNode":"c248dc1f3582cb1d","toSide":"right","label":"functionality of"}
+	]
+}

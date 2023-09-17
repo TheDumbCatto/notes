@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"type":"text","text":"Menlo Isolation DLP","id":"8a59ee4d254539a8","x":-112,"y":-95,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"Capabilities","id":"f83a0a8cd589399a","x":-112,"y":100,"width":250,"height":60},
+		{"type":"text","text":"Password-protected document inspection","id":"bafd3e5248288053","x":-400,"y":361,"width":250,"height":60},
+		{"type":"text","text":"Customized data pattern dictionary","id":"67561c20deb873c3","x":-285,"y":494,"width":250,"height":60},
+		{"type":"text","text":"Audit logs, email notifications","id":"c14bc3304bd8d37e","x":54,"y":474,"width":250,"height":60},
+		{"type":"text","text":"[Azure Information Protection](https://learn.microsoft.com/en-us/azure/information-protection/what-is-information-protection) integration","id":"662039681cabba13","x":198,"y":339,"width":250,"height":60},
+		{"type":"text","text":"Data dictionaries","id":"3cf9a6aadfd125bf","x":269,"y":-272,"width":250,"height":60},
+		{"type":"text","text":"Firewall-like rules","id":"b6054f57e29448d9","x":-52,"y":-325,"width":250,"height":60},
+		{"type":"text","text":"Users, group of users","id":"b7849ee78f729a84","x":-340,"y":-500,"width":250,"height":60},
+		{"type":"text","text":"requires additional subscription","id":"862b97715fefef18","x":-551,"y":-154,"width":250,"height":60},
+		{"type":"text","text":"Doesn't work with email yet","id":"1422aa1d2c50b87e","x":-464,"y":-282,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"2ad1a11314bc514f","fromNode":"8a59ee4d254539a8","fromSide":"bottom","toNode":"f83a0a8cd589399a","toSide":"top"},
+		{"id":"026a30ed5531da20","fromNode":"bafd3e5248288053","fromSide":"top","toNode":"f83a0a8cd589399a","toSide":"bottom"},
+		{"id":"16e3a3349f89b38b","fromNode":"67561c20deb873c3","fromSide":"top","toNode":"f83a0a8cd589399a","toSide":"bottom"},
+		{"id":"22fcbb55bd8fe6e7","fromNode":"c14bc3304bd8d37e","fromSide":"top","toNode":"f83a0a8cd589399a","toSide":"bottom"},
+		{"id":"075cf8adb75ac670","fromNode":"662039681cabba13","fromSide":"top","toNode":"f83a0a8cd589399a","toSide":"bottom"},
+		{"id":"b5627314769b9523","fromNode":"8a59ee4d254539a8","fromSide":"top","toNode":"b6054f57e29448d9","toSide":"bottom","label":"uses"},
+		{"id":"17e3eb5830704c9b","fromNode":"8a59ee4d254539a8","fromSide":"top","toNode":"3cf9a6aadfd125bf","toSide":"bottom","label":"uses"},
+		{"id":"f6c00f6b583595a1","fromNode":"b6054f57e29448d9","fromSide":"top","toNode":"3cf9a6aadfd125bf","toSide":"top","label":"defined using"},
+		{"id":"dc2d66e70da4d968","fromNode":"b6054f57e29448d9","fromSide":"top","toNode":"b7849ee78f729a84","toSide":"bottom","label":"can be applied to"},
+		{"id":"095817e3ccfb7051","fromNode":"862b97715fefef18","fromSide":"right","toNode":"8a59ee4d254539a8","toSide":"left"},
+		{"id":"ce19d0cb9c472cd9","fromNode":"1422aa1d2c50b87e","fromSide":"right","toNode":"8a59ee4d254539a8","toSide":"left"}
+	]
+}

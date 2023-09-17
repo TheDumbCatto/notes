@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"type":"text","text":"Polaris","id":"296e670452dc5656","x":-82,"y":-146,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"A SaaS platform that provides fAST Static, fAST SCA, and an unified view of said's scanning statistics","id":"88225ec1b2497694","x":174,"y":-387,"width":306,"height":107},
+		{"type":"text","text":"scalability","id":"7f7dd56fe907c441","x":-400,"y":-387,"width":250,"height":60},
+		{"type":"text","text":"fAST Static","id":"00b5e9b57990db5a","x":363,"y":-121,"width":250,"height":60},
+		{"type":"text","text":"Dashboard","id":"c0c2399009097b50","x":-487,"y":-181,"width":250,"height":60},
+		{"type":"text","text":"Risk posture","id":"90fd976e09c7c86d","x":-700,"y":-43,"width":250,"height":60},
+		{"type":"text","text":"Automatic/Manual triage/prioritization","id":"37099b933f151ea4","x":-290,"y":128,"width":281,"height":62},
+		{"type":"text","text":"[Coverity](Coverity.canvas)","id":"fc82a37d7d1c0d6d","x":780,"y":-176,"width":250,"height":60},
+		{"type":"text","text":"CI/CD tools, bug tracking systems","id":"73a37d0e30428bac","x":140,"y":128,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"e678e0c9fa3c1e9d","fromNode":"296e670452dc5656","fromSide":"top","toNode":"88225ec1b2497694","toSide":"bottom","label":"definition"},
+		{"id":"0f1bde8b4197439e","fromNode":"296e670452dc5656","fromSide":"bottom","toNode":"73a37d0e30428bac","toSide":"top","label":"can be integrated w/"},
+		{"id":"c808079844225eb8","fromNode":"296e670452dc5656","fromSide":"bottom","toNode":"37099b933f151ea4","toSide":"top","label":"provides"},
+		{"id":"8bb69604b3611274","fromNode":"7f7dd56fe907c441","fromSide":"right","toNode":"296e670452dc5656","toSide":"top","label":"functionality of"},
+		{"id":"a696f642d6d9dff6","fromNode":"296e670452dc5656","fromSide":"left","toNode":"c0c2399009097b50","toSide":"right"},
+		{"id":"829e6b3a1566032c","fromNode":"c0c2399009097b50","fromSide":"bottom","toNode":"90fd976e09c7c86d","toSide":"top","label":"used for"},
+		{"id":"a575c2359d5c15e7","fromNode":"00b5e9b57990db5a","fromSide":"left","toNode":"296e670452dc5656","toSide":"right","label":"component of"},
+		{"id":"54f45c60d64dfabd","fromNode":"00b5e9b57990db5a","fromSide":"right","toNode":"fc82a37d7d1c0d6d","toSide":"left","label":"includes"}
+	]
+}

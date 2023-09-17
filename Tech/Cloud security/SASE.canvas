@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"type":"text","text":"SASE","id":"7a6840bcec987f1d","x":-106,"y":-96,"width":250,"height":60},
+		{"type":"text","text":"A convergence of SD-WAN and multiple cloud/network security functions for today's distributed workforce","id":"7d8ce515bd739d66","x":-297,"y":76,"width":277,"height":124},
+		{"type":"text","text":"[CASB](CASB.canvas)","id":"b429bccc04acecea","x":-368,"y":-220,"width":250,"height":60},
+		{"type":"text","text":"FW-aaS","id":"1244f157d0c7e8da","x":-284,"y":-389,"width":250,"height":60},
+		{"type":"text","text":"SD-WAN","id":"c5e07a3c2ff6f6f3","x":192,"y":-357,"width":250,"height":60},
+		{"type":"text","text":"Zero Trust","id":"7a1f933c406903ba","x":257,"y":-222,"width":250,"height":60},
+		{"type":"text","text":"SWG","id":"8fbbdb24ccb1d43e","x":19,"y":-480,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"94d0baf3e6cc742b","fromNode":"7a6840bcec987f1d","fromSide":"bottom","toNode":"7d8ce515bd739d66","toSide":"top","label":"definition"},
+		{"id":"7c9b4e777d526995","fromNode":"7a6840bcec987f1d","fromSide":"top","toNode":"b429bccc04acecea","toSide":"bottom","label":"includes"},
+		{"id":"427f3122bf2bd27a","fromNode":"7a6840bcec987f1d","fromSide":"top","toNode":"1244f157d0c7e8da","toSide":"bottom","label":"includes"},
+		{"id":"02dcd80a40e88e88","fromNode":"7a6840bcec987f1d","fromSide":"top","toNode":"8fbbdb24ccb1d43e","toSide":"bottom","label":"includes"},
+		{"id":"f4f582855c07207b","fromNode":"7a6840bcec987f1d","fromSide":"top","toNode":"c5e07a3c2ff6f6f3","toSide":"bottom","label":"includes"},
+		{"id":"2ff3baf003730554","fromNode":"7a6840bcec987f1d","fromSide":"top","toNode":"7a1f933c406903ba","toSide":"bottom","label":"includes"}
+	]
+}

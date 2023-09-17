@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"type":"text","text":"**Passive attacks/Recon**\n- Module 02: Footprinting & Recon\n- Module 03: Scanning networks\n- Module 04: Enumeration","id":"8e5fb3cca3bfbf38","x":-480,"y":-140,"width":330,"height":148},
+		{"type":"text","text":"**Active attacks methods**\n- Module 05: Vuln analysis\n- Module 06: System hacking\n- Module 07: Malware Threats\n- Module 08: Sniffing\n- Module 09: Social Engineering\n- Module 10: DoS\n- Module 11: Session Hijacking\n- Module 12: Evading IDS, Firewalls, Honeypots\n- Module 15: SQL injection","id":"6c795350055afa94","x":-480,"y":70,"width":337,"height":340},
+		{"type":"text","text":"**Attacks on specific tech**\n- Module 13: Web servers\n- Module 14: Web apps\n- Module 16: Wireless networks\n- Module 17: Mobile Platforms\n- Module 18: IOT and OT","id":"f25105a6a0578df4","x":-86,"y":-248,"width":280,"height":256},
+		{"type":"text","text":"**Various priming concepts**\n- Module 01","id":"58eab5f9d20700ab","x":-480,"y":-248,"width":250,"height":82},
+		{"type":"text","text":"**Tech concepts**\n- Module 19: Cloud computing\n- Module 20: Crypto","id":"7653a7e539445b14","x":-113,"y":292,"width":307,"height":118}
+	],
+	"edges":[]
+}

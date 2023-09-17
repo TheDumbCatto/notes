@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"type":"text","text":"Software Integrity Group","id":"39dedb77edbdae60","x":-118,"y":-119,"width":250,"height":60,"color":"6"},
+		{"id":"152a9407ff16bdb7","x":-326,"y":86,"width":250,"height":60,"type":"text","text":"AppSec tools, services, and integrated solutions"},
+		{"id":"ec61b4408e8efad2","x":68,"y":78,"width":250,"height":60,"type":"text","text":"AppSec and risk mgmt consulting"}
+	],
+	"edges":[
+		{"id":"4024fd3a52933c03","fromNode":"39dedb77edbdae60","fromSide":"bottom","toNode":"152a9407ff16bdb7","toSide":"top","label":"provides"},
+		{"id":"37b3e959b40b9469","fromNode":"39dedb77edbdae60","fromSide":"bottom","toNode":"ec61b4408e8efad2","toSide":"top","label":"provides"}
+	]
+}

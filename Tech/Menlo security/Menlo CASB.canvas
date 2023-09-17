@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"type":"text","text":"MISP CASB","id":"d3ff41e229d319ee","x":-51,"y":-181,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"List of web apps","id":"69a197d66dfff51a","x":-51,"y":20,"width":250,"height":60},
+		{"id":"0ea08eef730350be","x":-420,"y":20,"width":250,"height":60,"type":"text","text":"Access policies"},
+		{"id":"f74e96659f25acbc","x":-419,"y":176,"width":250,"height":60,"type":"text","text":"Profile"},
+		{"id":"f9f499003ebe8f4d","x":-420,"y":375,"width":250,"height":60,"type":"text","text":"Actions/Policies"}
+	],
+	"edges":[
+		{"id":"916874659d71716e","fromNode":"d3ff41e229d319ee","fromSide":"bottom","toNode":"69a197d66dfff51a","toSide":"top","label":"uses/discovers"},
+		{"id":"8051c4ef79d251f8","fromNode":"0ea08eef730350be","fromSide":"top","toNode":"69a197d66dfff51a","toSide":"left","label":"enforced to"},
+		{"id":"53c7a886096fd75b","fromNode":"0ea08eef730350be","fromSide":"bottom","toNode":"f74e96659f25acbc","toSide":"top","label":"uses"},
+		{"id":"3d44bc7d37fca19b","fromNode":"d3ff41e229d319ee","fromSide":"left","toNode":"0ea08eef730350be","toSide":"top","label":"uses"},
+		{"id":"187edcf384bc617c","fromNode":"f9f499003ebe8f4d","fromSide":"top","toNode":"f74e96659f25acbc","toSide":"bottom","label":"matches"}
+	]
+}

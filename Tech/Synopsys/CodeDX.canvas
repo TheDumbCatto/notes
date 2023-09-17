@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"type":"text","text":"**CodeDX**","id":"0ff4f02423475415","x":-115,"y":-23,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"**Projects listing**: Projects are managed units of asset. These units could range from a software project to a Business Unit","id":"8fe237dbd78a9e5d","x":-580,"y":149,"width":288,"height":151},
+		{"type":"text","text":"**Findings listing**: Findings are pieces of data provided from CodeDX's analysis of results gathered from AST tools' scans","id":"ad50998faba0010e","x":-115,"y":279,"width":278,"height":121},
+		{"type":"text","text":"**IDE plugins**: Provides CodeDX-provided SAST tools for IDE and send scan results to CodeDX","id":"01c97f38a66d17b2","x":163,"y":-163,"width":357,"height":103},
+		{"type":"file","file":"images/Pasted image 20230706111843.png","id":"2f2b8f3a80d1b885","x":40,"y":-418,"width":400,"height":223},
+		{"type":"text","text":"**Issue tracker**: Streamlined flow from newly found issues to tickets ","id":"511fb1e47e211828","x":-500,"y":-195,"width":270,"height":115},
+		{"type":"text","text":"Advantages","id":"618b9ba9c29b11a5","x":-1080,"y":-23,"width":250,"height":60},
+		{"type":"text","text":"Rich out-of-the-box AST tools and integration","id":"6392413ca9ee73c1","x":-1318,"y":-152,"width":250,"height":60},
+		{"type":"text","text":"ML algo for accurate results correlation & prioritization","id":"b54954102e1831f6","x":-1639,"y":-49,"width":250,"height":86},
+		{"type":"text","text":"AST tools narrow-down & evaluation through correlation","id":"a0fd2e523255fbfb","x":-1639,"y":99,"width":297,"height":78},
+		{"type":"text","text":"Contextualize vuln's severity & exploitability, policy compliance based on software risk","id":"02d434f225d983fc","x":-1440,"y":274,"width":269,"height":126},
+		{"type":"text","text":"**Reports generating**","id":"fcdab53b8383f8d0","x":270,"y":350,"width":250,"height":60},
+		{"type":"text","text":"**Compliance reports** (OWASP, PCI DSS,...)","id":"05a632eae2e71fc0","x":755,"y":240,"width":250,"height":60},
+		{"type":"text","text":"An AppSec Orchestration and Correlation solution which aggregates various AppSec scanning results from various AST tools, performs analysis on those results, then correlates and visualizes the analysis","id":"ebd74bffff5de6a2","x":466,"y":37,"width":414,"height":161}
+	],
+	"edges":[
+		{"id":"002b1edd3b7e622e","fromNode":"8fe237dbd78a9e5d","fromSide":"right","toNode":"0ff4f02423475415","toSide":"left","label":"functionality of"},
+		{"id":"683be2743e9e610e","fromNode":"ad50998faba0010e","fromSide":"top","toNode":"0ff4f02423475415","toSide":"bottom","label":"functionality of"},
+		{"id":"bed40525bd2b6c7c","fromNode":"fcdab53b8383f8d0","fromSide":"left","toNode":"0ff4f02423475415","toSide":"right","label":"functionality of"},
+		{"id":"47f903404cbc7654","fromNode":"0ff4f02423475415","fromSide":"top","toNode":"01c97f38a66d17b2","toSide":"bottom","label":"provides"},
+		{"id":"a06578f9bf71e0a7","fromNode":"511fb1e47e211828","fromSide":"right","toNode":"0ff4f02423475415","toSide":"top","label":"functionality of"},
+		{"id":"7bdc7f4e46bcf7cd","fromNode":"618b9ba9c29b11a5","fromSide":"right","toNode":"0ff4f02423475415","toSide":"left"},
+		{"id":"4c6f1e2e2cbaecce","fromNode":"618b9ba9c29b11a5","fromSide":"top","toNode":"6392413ca9ee73c1","toSide":"bottom"},
+		{"id":"68ed0b0a0fb65ae9","fromNode":"618b9ba9c29b11a5","fromSide":"left","toNode":"b54954102e1831f6","toSide":"right"},
+		{"id":"e18cd36e1a5725e2","fromNode":"618b9ba9c29b11a5","fromSide":"left","toNode":"a0fd2e523255fbfb","toSide":"right"},
+		{"id":"d1b25014dd951a60","fromNode":"618b9ba9c29b11a5","fromSide":"bottom","toNode":"02d434f225d983fc","toSide":"top"},
+		{"id":"4c1f49382722cab5","fromNode":"05a632eae2e71fc0","fromSide":"left","toNode":"fcdab53b8383f8d0","toSide":"right","label":"type of"},
+		{"id":"496bb56b67a71e58","fromNode":"ebd74bffff5de6a2","fromSide":"left","toNode":"0ff4f02423475415","toSide":"right","label":"definition"}
+	]
+}

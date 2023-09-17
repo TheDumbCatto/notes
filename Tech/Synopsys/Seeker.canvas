@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"type":"text","text":"Seeker","id":"6edb570176ca89d4","x":-140,"y":-43,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"[BlackDuck](BlackDuck.canvas)","id":"271ed9e75843ae7f","x":100,"y":-280,"width":250,"height":60},
+		{"type":"text","text":"Project's vulnerabilities","id":"3a3ede387a412242","x":-660,"y":60,"width":250,"height":60},
+		{"type":"text","text":"S-BOM","id":"a63c5f2cdf7ac4a7","x":-1066,"y":-120,"width":250,"height":60},
+		{"type":"text","text":"Vuln's analysis verification","id":"4403c3b0e8462a93","x":-1113,"y":117,"width":250,"height":60},
+		{"type":"text","text":"related OWASP/Security standards reports","id":"2f2aa03dfedbae4f","x":-1110,"y":270,"width":250,"height":60},
+		{"type":"text","text":"CI/CD tools and ticketing systems","id":"a2fca4903c5b15f1","x":460,"y":30,"width":250,"height":60},
+		{"type":"text","text":"sensitive data flow","id":"78948be00536a316","x":-447,"y":-221,"width":250,"height":60},
+		{"type":"text","text":"Scalable for large number of web requests","id":"e8afe38a7b1ed3eb","x":399,"y":-149,"width":250,"height":60},
+		{"type":"text","text":"exact lines of vuln code","id":"de9bb62a3d2c49ac","x":-502,"y":384,"width":250,"height":60},
+		{"type":"text","text":"exact call trace of the vuln","id":"d4713665ba62a145","x":-322,"y":504,"width":250,"height":60},
+		{"type":"text","text":"remediation guide for each vuln","id":"e160e028135822dc","x":-116,"y":330,"width":250,"height":60},
+		{"type":"text","text":"Advantages","id":"5985e8d89776a0c1","x":254,"y":224,"width":250,"height":60},
+		{"type":"text","text":"Language, framework coverage","id":"c2acda86b86314ee","x":739,"y":169,"width":250,"height":60},
+		{"type":"text","text":"Analysis verification","id":"b3ea19981cae733e","x":725,"y":269,"width":250,"height":60},
+		{"type":"text","text":"Microservice & cloud-native support","id":"83fac95e55546f8c","x":755,"y":390,"width":250,"height":60},
+		{"type":"text","text":"Sensitive data flow tracking","id":"2a109f285f2bc574","x":761,"y":486,"width":250,"height":60},
+		{"type":"text","text":"Integrated eLearning","id":"38f0c40dc9e2186b","x":764,"y":586,"width":250,"height":60},
+		{"id":"dc8ee559b830ebd1","x":724,"y":99,"width":250,"height":60,"type":"text","text":"Accuraccy"}
+	],
+	"edges":[
+		{"id":"3171f004745480f2","fromNode":"6edb570176ca89d4","fromSide":"top","toNode":"271ed9e75843ae7f","toSide":"bottom","label":"integrates w/"},
+		{"id":"136e13c2af7dc63b","fromNode":"6edb570176ca89d4","fromSide":"left","toNode":"3a3ede387a412242","toSide":"right","label":"scans for"},
+		{"id":"9705aaf6c7b05f40","fromNode":"3a3ede387a412242","fromSide":"left","toNode":"a63c5f2cdf7ac4a7","toSide":"right","label":"includes"},
+		{"id":"fe199bbc9a725bf3","fromNode":"3a3ede387a412242","fromSide":"left","toNode":"4403c3b0e8462a93","toSide":"right","label":"includes"},
+		{"id":"86a62b00c77fd064","fromNode":"3a3ede387a412242","fromSide":"left","toNode":"2f2aa03dfedbae4f","toSide":"right","label":"includes"},
+		{"id":"abbc1af2d3633b0c","fromNode":"6edb570176ca89d4","fromSide":"bottom","toNode":"de9bb62a3d2c49ac","toSide":"top","label":"provides"},
+		{"id":"8ced3a2d38302aea","fromNode":"6edb570176ca89d4","fromSide":"bottom","toNode":"d4713665ba62a145","toSide":"top","label":"provides"},
+		{"id":"ceca9b73b287d4cd","fromNode":"6edb570176ca89d4","fromSide":"bottom","toNode":"e160e028135822dc","toSide":"top","label":"provides"},
+		{"id":"629b23707f660d31","fromNode":"6edb570176ca89d4","fromSide":"right","toNode":"a2fca4903c5b15f1","toSide":"left","label":"can be integrated w/"},
+		{"id":"8c42830da3d852e8","fromNode":"6edb570176ca89d4","fromSide":"top","toNode":"78948be00536a316","toSide":"bottom","label":"tracks"},
+		{"id":"821854ed4a17c410","fromNode":"e8afe38a7b1ed3eb","fromSide":"left","toNode":"6edb570176ca89d4","toSide":"right","label":"feature of"},
+		{"id":"f6a2a17069813242","fromNode":"5985e8d89776a0c1","fromSide":"top","toNode":"6edb570176ca89d4","toSide":"right"},
+		{"id":"b2001cfc2a8a9d81","fromNode":"5985e8d89776a0c1","fromSide":"right","toNode":"c2acda86b86314ee","toSide":"left"},
+		{"id":"ab80eb9c76e5a969","fromNode":"5985e8d89776a0c1","fromSide":"right","toNode":"b3ea19981cae733e","toSide":"left"},
+		{"id":"bdc9f19c58ea02c5","fromNode":"5985e8d89776a0c1","fromSide":"right","toNode":"83fac95e55546f8c","toSide":"left"},
+		{"id":"c2dd2d457e9416da","fromNode":"5985e8d89776a0c1","fromSide":"right","toNode":"2a109f285f2bc574","toSide":"left"},
+		{"id":"4670989b168f771d","fromNode":"5985e8d89776a0c1","fromSide":"right","toNode":"38f0c40dc9e2186b","toSide":"left"},
+		{"id":"cbaaee1dc22de28c","fromNode":"5985e8d89776a0c1","fromSide":"right","toNode":"dc8ee559b830ebd1","toSide":"left"}
+	]
+}

@@ -1,0 +1,1 @@
+A symbol table (used for debuggers like GDB) contains information about functions, global variables, scopes,... that makes it easier to debug a program

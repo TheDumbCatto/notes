@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"baba817227506649","x":-263,"y":-138,"width":283,"height":60,"type":"text","text":"Store x29 in sp-48, x30 in sp-56"},
+		{"id":"ee4aa046df93559b","x":-246,"y":0,"width":250,"height":60,"type":"text","text":"x29 = sp"},
+		{"id":"2b07114c4c81d6ee","x":-247,"y":162,"width":250,"height":118,"type":"text","text":"x19 = [sp+16] \narg1 = [sp+44] \nx1 = [sp+32] "},
+		{"id":"8dadac8438a03e5f","x":-248,"y":393,"width":250,"height":87,"type":"text","text":"x0 = [sp+32]\nx0 += 8\ncall atoi"},
+		{"id":"e716b07704f7eef0","x":-247,"y":540,"width":250,"height":100,"type":"text","text":"x0 = [sp+32]\nx0 += 16\ncall atoi"}
+	],
+	"edges":[
+		{"id":"7675813fe1733103","fromNode":"baba817227506649","fromSide":"bottom","toNode":"ee4aa046df93559b","toSide":"top"},
+		{"id":"7e4a6e24ae74ec31","fromNode":"ee4aa046df93559b","fromSide":"bottom","toNode":"2b07114c4c81d6ee","toSide":"top"},
+		{"id":"552e50a4ebbc747e","fromNode":"2b07114c4c81d6ee","fromSide":"bottom","toNode":"8dadac8438a03e5f","toSide":"top"},
+		{"id":"6af46de33cc7ef19","fromNode":"8dadac8438a03e5f","fromSide":"bottom","toNode":"e716b07704f7eef0","toSide":"top"}
+	]
+}

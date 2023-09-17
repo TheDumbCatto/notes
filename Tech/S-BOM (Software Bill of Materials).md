@@ -1,0 +1,1 @@
+A comprehensive list of (open source) software components used in a software project
