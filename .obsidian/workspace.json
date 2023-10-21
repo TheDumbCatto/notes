@@ -121,11 +121,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "077e7d1ab2ebdf38",
+  "active": "abe8aa346be42bd7",
   "lastOpenFiles": [
+    "Tech/Set-UID programs.md",
+    "Tech/Windows Internal.md",
     "Tech/Windows Internals.canvas",
     "Tech/Windows Authentication Overview.canvas",
-    "Tech/Windows Internal.md",
     "Tech/Untitled.canvas",
     "Tech/WSS (Web Services Security).md",
     "Tech/Web design tips.md",
