@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ea10dc92c9666eae",
+        "id": "5d3a4f884c5ad0b5",
         "type": "tabs",
         "children": [
           {
-            "id": "e74b12d046a54f6a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "47f428fea51f412d",
+            "id": "abe8aa346be42bd7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Tech/Identity and Access Management (IAM).md"
-              }
-            }
-          },
-          {
-            "id": "01a3e6c61ea17c21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/Security principles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c84222fe5fff6c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/Security principles.md",
-                "mode": "source",
-                "source": false
+                "file": "Tech/Windows Internal.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/Identity and Access Management (IAM).md",
+                "file": "Tech/Windows Internal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,33 +121,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "47f428fea51f412d",
+  "active": "077e7d1ab2ebdf38",
   "lastOpenFiles": [
-    "AZ-AP/Misc.md",
-    "AZ-AP",
+    "Tech/Windows Internals.canvas",
+    "Tech/Windows Authentication Overview.canvas",
+    "Tech/Windows Internal.md",
+    "Tech/Untitled.canvas",
+    "Tech/WSS (Web Services Security).md",
+    "Tech/Web design tips.md",
+    "Miscellaneous/picoCTF draft.canvas",
+    "Miscellaneous/Vietnam's cybersec law decree 13.md",
+    "Tech/Identity and Access Management (IAM).md",
+    "Excalidraw",
     "Tech/Identity and Access Management (IAM).png",
     "Tech/Identity and Access Management (IAM).svg",
     "Tech/Cloud security/SASE.canvas",
-    "Tech/Identity and Access Management (IAM).md",
     "Tech/Security principles.md",
     "images/Pasted Image 20230908102501_088.png",
     "images/Pasted Image 20230908102327_902.png",
+    "AZ-AP/Misc.md",
     "Tech/Kerberos.md",
     "Tech/Menlo security/Menlo CASB.canvas",
-    "Tech/Windows Authentication Overview.canvas",
     "Tech/Menlo security/MSIP.canvas",
     "Tech/Cloud security/CASB.canvas",
     "Tech/Menlo security/MPA.canvas",
     "Tech/Menlo security/Menlo isolation platform other notes.md",
     "Tech/CEH.canvas",
-    "Tech/Menlo security/Menlo DLP.canvas",
-    "Miscellaneous/Vietnam's cybersec law decree 13.md",
-    "Tech/Synopsys/BlackDuck.canvas",
     "Tech/Buffer Overflow.md",
     "Tech/Heap memory.md",
     "Tech/Stack memory.md",
     "Tech/Public Key Infrastructure.md",
-    "Miscellaneous/picoCTF draft.canvas",
     "Untitled",
     "Tech/PSI - Private Sec Intersection.md",
     "Tech/Menlo security/Menlo Inquiries.md",
@@ -193,7 +163,6 @@
     "images/Pasted image 20230814090145.png",
     "Tech/ADFS.md",
     "Tech/Untitled.md",
-    "Tech/WSS (Web Services Security).md",
     "Tech/OAuth.md",
     "Tech/Menlo security",
     "Cyber range/Cyber range.md",
@@ -203,8 +172,7 @@
     "Tech/Cloud security",
     "Synopsys/Untitled.md",
     "Tech/Cloud native shit.md",
-    "Tech/Gartner's devsecops model.md",
-    "Tech/S-BOM (Software Bill of Materials).md",
+    "AZ-AP",
     "Tech/Synopsys",
     "drafts"
   ]
