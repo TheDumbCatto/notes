@@ -171,4 +171,6 @@ Zscaler questions:
 	- Information to provide:
 		- IdP solution (Menlo,...) to integrate w/
 		- Size of company, Deal size (budget) (general VNPT's background)
+
+# 10/13
 - 

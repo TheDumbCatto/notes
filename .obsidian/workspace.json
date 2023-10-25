@@ -8,49 +8,57 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e74b12d046a54f6a",
+            "id": "c1b57c340b7708b7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Tech/Menlo security/MSIP.canvas",
+                "viewState": {
+                  "x": 892.2155059165115,
+                  "y": 192.08005913429935,
+                  "zoom": -2.2375611975168117
+                }
+              }
             }
           },
           {
-            "id": "47f428fea51f412d",
+            "id": "6ee0f801643f43fc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/PKI.png"
+              }
+            }
+          },
+          {
+            "id": "c80e34bd950db1ed",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Tech/Synopsys/Seeker.canvas",
+                "viewState": {
+                  "x": -49.5,
+                  "y": 183,
+                  "zoom": -1.3140569289820707
+                }
+              }
+            }
+          },
+          {
+            "id": "c924fd8f9988acd3",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Tech/Identity and Access Management (IAM).md"
-              }
-            }
-          },
-          {
-            "id": "01a3e6c61ea17c21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/Security principles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c84222fe5fff6c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech/Security principles.md",
-                "mode": "source",
-                "source": false
+                "file": "Tech/Zscaler/Architecture.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -79,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ipsec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/Identity and Access Management (IAM).md",
+                "file": "Tech/Synopsys/Seeker.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,57 +162,59 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "47f428fea51f412d",
+  "active": "c80e34bd950db1ed",
   "lastOpenFiles": [
+    "Tech/Synopsys/Polaris.canvas",
+    "Tech/Synopsys/Defensics Fuzzing.canvas",
+    "Tech/Synopsys/Coverity.canvas",
+    "Tech/Synopsys/CodeDX.canvas",
+    "Tech/Synopsys/Seeker.canvas",
+    "Tech/IPSec VPN.md",
+    "images/IPSEC VPN IKE phase 2.png",
+    "images/IPSEC VPN IKE phase 1.png",
+    "images/PKI.png",
+    "images/Pasted image 20230814092117.png",
+    "images/Pasted Image 20230813110005_371.png",
+    "images/Pasted Image 20230813111416_494.png",
+    "images/Pasted Image 20230813105830_319.png",
+    "images/Pasted Image 20230813105729_275.png",
+    "images/Pasted image 20230625180635.png",
+    "images/Pasted image 20230625180205.png",
+    "Tech/Menlo security/MSIP.canvas",
+    "Neurology, Biology, Medical stuff/Endorphin.md",
+    "Neurology, Biology, Medical stuff/Oxytocin.md",
+    "Neurology, Biology, Medical stuff/Adenasine.md",
+    "Neurology, Biology, Medical stuff/Role of Serotonin and Dopamine in Psoriasis - A Case-Control Study.md",
+    "Psychology stuff/Mother complex.md",
+    "Tech/SAML.md",
+    "Tech/Zscaler/Zscaler Private Access.md",
+    "Tech/Zscaler/Architecture.md",
+    "Tech/Menlo security/Drawing 2023-10-04 17.53.20.excalidraw.md",
+    "Tech/Zscaler/ZTE philosophy + architecture.md",
     "AZ-AP/Misc.md",
-    "AZ-AP",
-    "Tech/Identity and Access Management (IAM).png",
-    "Tech/Identity and Access Management (IAM).svg",
+    "Tech/Zscaler/Zscaler troubleshooting process.canvas",
+    "Cyber range/Cyber range.md",
+    "Tech/Zeek.md",
     "Tech/Cloud security/SASE.canvas",
+    "Tech/Cloud security/CASB.canvas",
     "Tech/Identity and Access Management (IAM).md",
+    "Tech/Zscaler",
+    "Tech/DNS record types.md",
     "Tech/Security principles.md",
-    "images/Pasted Image 20230908102501_088.png",
-    "images/Pasted Image 20230908102327_902.png",
+    "AZ-AP",
     "Tech/Kerberos.md",
     "Tech/Menlo security/Menlo CASB.canvas",
     "Tech/Windows Authentication Overview.canvas",
-    "Tech/Menlo security/MSIP.canvas",
-    "Tech/Cloud security/CASB.canvas",
-    "Tech/Menlo security/MPA.canvas",
     "Tech/Menlo security/Menlo isolation platform other notes.md",
-    "Tech/CEH.canvas",
-    "Tech/Menlo security/Menlo DLP.canvas",
     "Miscellaneous/Vietnam's cybersec law decree 13.md",
-    "Tech/Synopsys/BlackDuck.canvas",
     "Tech/Buffer Overflow.md",
     "Tech/Heap memory.md",
     "Tech/Stack memory.md",
     "Tech/Public Key Infrastructure.md",
-    "Miscellaneous/picoCTF draft.canvas",
     "Untitled",
     "Tech/PSI - Private Sec Intersection.md",
-    "Tech/Menlo security/Menlo Inquiries.md",
-    "images/Pasted image 20230817162431.png",
-    "Tech/SAML.md",
-    "images/Pasted image 20230814092117.png",
-    "images/Pasted image 20230814090924.png",
-    "images/Pasted image 20230814090536.png",
-    "images/Pasted image 20230814090233.png",
-    "images/Pasted image 20230814090145.png",
-    "Tech/ADFS.md",
-    "Tech/Untitled.md",
-    "Tech/WSS (Web Services Security).md",
-    "Tech/OAuth.md",
     "Tech/Menlo security",
-    "Cyber range/Cyber range.md",
-    "Miscellaneous/Daily morning habits.md",
-    "Coverity.md",
-    "Tech/Synopsys/Whitehat DAST techsheet.md",
     "Tech/Cloud security",
-    "Synopsys/Untitled.md",
-    "Tech/Cloud native shit.md",
-    "Tech/Gartner's devsecops model.md",
-    "Tech/S-BOM (Software Bill of Materials).md",
     "Tech/Synopsys",
     "drafts"
   ]

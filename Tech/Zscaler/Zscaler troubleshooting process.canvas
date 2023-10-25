@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"a2c964cc1ed63037","type":"file","file":"images/Zscaler Private Access troubleshooting process.png","x":-406,"y":-378,"width":1097,"height":595},
+		{"id":"41c345ad66896c79","type":"file","file":"images/Zscaler Internet Access troubleshooting process.png","x":-406,"y":280,"width":1098,"height":580}
+	],
+	"edges":[]
+}

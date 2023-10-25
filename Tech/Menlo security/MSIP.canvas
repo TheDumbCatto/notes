@@ -28,17 +28,18 @@
 		{"type":"text","text":"0-downtime updates","id":"9663e6a20355bfb1","x":615,"y":1085,"width":250,"height":60},
 		{"type":"text","text":"Secquence of rules","id":"957122f63a065483","x":506,"y":-199,"width":250,"height":60},
 		{"type":"text","text":"SSL Exemptions","id":"8bcf8741cc389037","x":849,"y":-201,"width":250,"height":60},
-		{"type":"text","text":"CASB rules","id":"a102c5071b0dfd5f","x":1265,"y":-202,"width":250,"height":60},
-		{"type":"text","text":"Exceptions","id":"8a6e44921816b153","x":1660,"y":-202,"width":250,"height":60},
-		{"type":"text","text":"Threats & Category rules","id":"ce736c549413a871","x":2072,"y":-202,"width":250,"height":60},
-		{"type":"text","text":"Resource rules: Safe view/Downloads/Uploads -> DLP","id":"cab066caebf40da9","x":2484,"y":-204,"width":316,"height":62},
 		{"type":"text","text":"[MCAS](https://www.softlanding.ca/blog/microsoft-cloud-app-security-for-business/)","id":"e66cfa0fbd1c212d","x":511,"y":-1120,"width":250,"height":60},
-		{"type":"text","text":"PRE Parent/Global Exceptions","id":"c175a8680e97a385","x":1760,"y":-440,"width":250,"height":60},
-		{"type":"text","text":"POST Parent/Global Exceptions","id":"32bc5efc9e717159","x":1585,"y":0,"width":250,"height":60},
 		{"type":"text","text":"HEAT prevention","id":"de8c37eb5c3db384","x":998,"y":-445,"width":250,"height":60},
 		{"type":"text","text":"HEAT Assessment","id":"b7a17aea2247c649","x":1336,"y":-509,"width":250,"height":60},
 		{"type":"text","text":"HEAT Shield: Click-time ML-based phishing detection","id":"4486d261db61ebc7","x":1336,"y":-425,"width":250,"height":60},
-		{"type":"text","text":"HEAT Visibility","id":"9f5ad2b01e031603","x":1336,"y":-325,"width":250,"height":60}
+		{"type":"text","text":"HEAT Visibility","id":"9f5ad2b01e031603","x":1336,"y":-325,"width":250,"height":60},
+		{"type":"text","text":"CASB rules","id":"a102c5071b0dfd5f","x":1560,"y":-202,"width":250,"height":60},
+		{"type":"text","text":"Exceptions","id":"8a6e44921816b153","x":1955,"y":-202,"width":250,"height":60},
+		{"type":"text","text":"POST Parent/Global Exceptions","id":"32bc5efc9e717159","x":1880,"y":0,"width":250,"height":60},
+		{"type":"text","text":"PRE Parent/Global Exceptions","id":"c175a8680e97a385","x":2055,"y":-440,"width":250,"height":60},
+		{"type":"text","text":"Threats & Category rules","id":"ce736c549413a871","x":2455,"y":-202,"width":250,"height":60},
+		{"type":"text","text":"Resource rules: Safe view/Downloads/Uploads -> DLP","id":"cab066caebf40da9","x":2867,"y":-204,"width":316,"height":62},
+		{"type":"text","text":"Webapp rules","id":"f9f58a4f40f15b6f","x":1560,"y":191,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"7f8d8d6ccaa7209e","fromNode":"151c2c4540ee290b","fromSide":"left","toNode":"ac492f06e3afd52c","toSide":"right"},
@@ -70,9 +71,8 @@
 		{"id":"06aa585d3ea128dc","fromNode":"7a77806d8c2deddd","fromSide":"top","toNode":"9d33839111a90937","toSide":"left"},
 		{"id":"42e2d5bc7f8c735b","fromNode":"7a77806d8c2deddd","fromSide":"top","toNode":"e66cfa0fbd1c212d","toSide":"bottom","label":"integrates w/"},
 		{"id":"9221864e14878799","fromNode":"151c2c4540ee290b","fromSide":"right","toNode":"957122f63a065483","toSide":"left","label":"uses"},
-		{"id":"647a04a5e97af9c5","fromNode":"8bcf8741cc389037","fromSide":"right","toNode":"a102c5071b0dfd5f","toSide":"left"},
+		{"id":"647a04a5e97af9c5","fromNode":"8bcf8741cc389037","fromSide":"right","toNode":"a102c5071b0dfd5f","toSide":"left","label":"supported browser"},
 		{"id":"2765219ad4cea8d9","fromNode":"a102c5071b0dfd5f","fromSide":"right","toNode":"8a6e44921816b153","toSide":"left"},
-		{"id":"e635cacb98da022f","fromNode":"8a6e44921816b153","fromSide":"right","toNode":"ce736c549413a871","toSide":"left"},
 		{"id":"de34a0bcd8d5f6b1","fromNode":"ce736c549413a871","fromSide":"right","toNode":"cab066caebf40da9","toSide":"left"},
 		{"id":"24e43df84d651e36","fromNode":"8a6e44921816b153","fromSide":"top","toNode":"e66cfa0fbd1c212d","toSide":"right","label":"pulls unsanctioned domains"},
 		{"id":"9bca31433b96f888","fromNode":"957122f63a065483","fromSide":"right","toNode":"8bcf8741cc389037","toSide":"left"},
@@ -81,6 +81,8 @@
 		{"id":"6f54790011b8eb8d","fromNode":"de8c37eb5c3db384","fromSide":"right","toNode":"b7a17aea2247c649","toSide":"left"},
 		{"id":"cbc471aaefae7abb","fromNode":"de8c37eb5c3db384","fromSide":"right","toNode":"4486d261db61ebc7","toSide":"left"},
 		{"id":"61b1b003388e4d4e","fromNode":"de8c37eb5c3db384","fromSide":"right","toNode":"9f5ad2b01e031603","toSide":"left"},
-		{"id":"4733c4a5b6a8609b","fromNode":"7a77806d8c2deddd","fromSide":"right","toNode":"de8c37eb5c3db384","toSide":"left"}
+		{"id":"4733c4a5b6a8609b","fromNode":"7a77806d8c2deddd","fromSide":"right","toNode":"de8c37eb5c3db384","toSide":"left"},
+		{"id":"a910d226d4e63882","fromNode":"8a6e44921816b153","fromSide":"right","toNode":"ce736c549413a871","toSide":"left"},
+		{"id":"b0e02eb0c51f11b6","fromNode":"8bcf8741cc389037","fromSide":"right","toNode":"f9f58a4f40f15b6f","toSide":"top","label":"unsupported browser\nproxy-aware webapps"}
 	]
 }
