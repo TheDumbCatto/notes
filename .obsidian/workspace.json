@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ea10dc92c9666eae",
+        "id": "5d3a4f884c5ad0b5",
         "type": "tabs",
         "children": [
           {
@@ -24,6 +24,7 @@
           },
           {
             "id": "6ee0f801643f43fc",
+            "id": "abe8aa346be42bd7",
             "type": "leaf",
             "state": {
               "type": "image",
@@ -54,11 +55,12 @@
               "type": "excalidraw",
               "state": {
                 "file": "Tech/Zscaler/Architecture.md"
+                "file": "Tech/Windows Internal.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/Synopsys/Seeker.canvas",
+                "file": "Tech/Identity and Access Management (IAM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,39 +164,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c80e34bd950db1ed",
+  "active": "47f428fea51f412d",
   "lastOpenFiles": [
-    "Tech/Synopsys/Polaris.canvas",
-    "Tech/Synopsys/Defensics Fuzzing.canvas",
-    "Tech/Synopsys/Coverity.canvas",
-    "Tech/Synopsys/CodeDX.canvas",
-    "Tech/Synopsys/Seeker.canvas",
-    "Tech/IPSec VPN.md",
-    "images/IPSEC VPN IKE phase 2.png",
-    "images/IPSEC VPN IKE phase 1.png",
-    "images/PKI.png",
-    "images/Pasted image 20230814092117.png",
-    "images/Pasted Image 20230813110005_371.png",
-    "images/Pasted Image 20230813111416_494.png",
-    "images/Pasted Image 20230813105830_319.png",
-    "images/Pasted Image 20230813105729_275.png",
-    "images/Pasted image 20230625180635.png",
-    "images/Pasted image 20230625180205.png",
-    "Tech/Menlo security/MSIP.canvas",
-    "Neurology, Biology, Medical stuff/Endorphin.md",
-    "Neurology, Biology, Medical stuff/Oxytocin.md",
-    "Neurology, Biology, Medical stuff/Adenasine.md",
-    "Neurology, Biology, Medical stuff/Role of Serotonin and Dopamine in Psoriasis - A Case-Control Study.md",
-    "Psychology stuff/Mother complex.md",
-    "Tech/SAML.md",
-    "Tech/Zscaler/Zscaler Private Access.md",
-    "Tech/Zscaler/Architecture.md",
-    "Tech/Menlo security/Drawing 2023-10-04 17.53.20.excalidraw.md",
-    "Tech/Zscaler/ZTE philosophy + architecture.md",
     "AZ-AP/Misc.md",
-    "Tech/Zscaler/Zscaler troubleshooting process.canvas",
-    "Cyber range/Cyber range.md",
-    "Tech/Zeek.md",
+    "AZ-AP",
+    "Tech/Identity and Access Management (IAM).png",
+    "Tech/Identity and Access Management (IAM).svg",
     "Tech/Cloud security/SASE.canvas",
     "Tech/Cloud security/CASB.canvas",
     "Tech/Identity and Access Management (IAM).md",
@@ -202,19 +177,23 @@
     "Tech/DNS record types.md",
     "Tech/Security principles.md",
     "AZ-AP",
+    "images/Pasted Image 20230908102501_088.png",
+    "images/Pasted Image 20230908102327_902.png",
+    "AZ-AP/Misc.md",
     "Tech/Kerberos.md",
-    "Tech/Menlo security/Menlo CASB.canvas",
-    "Tech/Windows Authentication Overview.canvas",
     "Tech/Menlo security/Menlo isolation platform other notes.md",
     "Miscellaneous/Vietnam's cybersec law decree 13.md",
+    "Tech/CEH.canvas",
     "Tech/Buffer Overflow.md",
     "Tech/Heap memory.md",
     "Tech/Stack memory.md",
     "Tech/Public Key Infrastructure.md",
     "Untitled",
-    "Tech/PSI - Private Sec Intersection.md",
     "Tech/Menlo security",
     "Tech/Cloud security",
+    "Synopsys/Untitled.md",
+    "Tech/Cloud native shit.md",
+    "AZ-AP",
     "Tech/Synopsys",
     "drafts"
   ]
