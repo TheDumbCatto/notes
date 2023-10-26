@@ -4,63 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5d3a4f884c5ad0b5",
+        "id": "d92cf30045e56b0e",
         "type": "tabs",
         "children": [
           {
-            "id": "c1b57c340b7708b7",
+            "id": "87d3f9e5feb13374",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Tech/Menlo security/MSIP.canvas",
-                "viewState": {
-                  "x": 892.2155059165115,
-                  "y": 192.08005913429935,
-                  "zoom": -2.2375611975168117
-                }
-              }
-            }
-          },
-          {
-            "id": "6ee0f801643f43fc",
-            "id": "abe8aa346be42bd7",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/PKI.png"
-              }
-            }
-          },
-          {
-            "id": "c80e34bd950db1ed",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Tech/Synopsys/Seeker.canvas",
-                "viewState": {
-                  "x": -49.5,
-                  "y": 183,
-                  "zoom": -1.3140569289820707
-                }
-              }
-            }
-          },
-          {
-            "id": "c924fd8f9988acd3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Tech/Zscaler/Architecture.md"
-                "file": "Tech/Windows Internal.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/Identity and Access Management (IAM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,36 +118,58 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "47f428fea51f412d",
+  "active": "87d3f9e5feb13374",
   "lastOpenFiles": [
-    "AZ-AP/Misc.md",
-    "AZ-AP",
-    "Tech/Identity and Access Management (IAM).png",
-    "Tech/Identity and Access Management (IAM).svg",
-    "Tech/Cloud security/SASE.canvas",
-    "Tech/Cloud security/CASB.canvas",
+    "Tech/Windows Authentication Overview.canvas",
+    "Tech/Single source of truth.md",
+    "Tech/ADFS.md",
     "Tech/Identity and Access Management (IAM).md",
+    "Tech/Identity and Access Management (IAM).png",
+    "Tech/Zscaler/Architecture.md",
+    "Tech/IPSec VPN.md",
+    "Tech/Windows Internal.md",
+    "Tech/Menlo security/MSIP.canvas",
+    "images/PKI.png",
+    "Tech/Synopsys/Seeker.canvas",
+    "Tech/Untitled.canvas",
+    "Tech/Synopsys/Polaris.canvas",
+    "Tech/Synopsys/Defensics Fuzzing.canvas",
+    "Tech/Synopsys/Coverity.canvas",
+    "Tech/Synopsys/CodeDX.canvas",
+    "images/IPSEC VPN IKE phase 2.png",
+    "images/IPSEC VPN IKE phase 1.png",
+    "images/Pasted image 20230814092117.png",
+    "images/Pasted Image 20230813110005_371.png",
+    "images/Pasted Image 20230813111416_494.png",
+    "images/Pasted Image 20230813105830_319.png",
+    "images/Pasted Image 20230813105729_275.png",
+    "images/Pasted image 20230625180635.png",
+    "Neurology, Biology, Medical stuff/Endorphin.md",
+    "Neurology, Biology, Medical stuff/Oxytocin.md",
+    "Neurology, Biology, Medical stuff/Adenasine.md",
+    "Neurology, Biology, Medical stuff/Role of Serotonin and Dopamine in Psoriasis - A Case-Control Study.md",
+    "Psychology stuff/Mother complex.md",
+    "Tech/SAML.md",
+    "Tech/Zscaler/Zscaler Private Access.md",
+    "Tech/Menlo security/Drawing 2023-10-04 17.53.20.excalidraw.md",
+    "Tech/Zscaler/ZTE philosophy + architecture.md",
+    "AZ-AP/Misc.md",
+    "Tech/Zscaler/Zscaler troubleshooting process.canvas",
+    "Cyber range/Cyber range.md",
+    "Tech/Zeek.md",
+    "Tech/Cloud security/SASE.canvas",
     "Tech/Zscaler",
     "Tech/DNS record types.md",
     "Tech/Security principles.md",
     "AZ-AP",
-    "images/Pasted Image 20230908102501_088.png",
-    "images/Pasted Image 20230908102327_902.png",
-    "AZ-AP/Misc.md",
     "Tech/Kerberos.md",
     "Tech/Menlo security/Menlo isolation platform other notes.md",
     "Miscellaneous/Vietnam's cybersec law decree 13.md",
-    "Tech/CEH.canvas",
     "Tech/Buffer Overflow.md",
     "Tech/Heap memory.md",
-    "Tech/Stack memory.md",
-    "Tech/Public Key Infrastructure.md",
     "Untitled",
     "Tech/Menlo security",
     "Tech/Cloud security",
-    "Synopsys/Untitled.md",
-    "Tech/Cloud native shit.md",
-    "AZ-AP",
     "Tech/Synopsys",
     "drafts"
   ]
