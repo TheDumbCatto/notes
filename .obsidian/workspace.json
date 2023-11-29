@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d92cf30045e56b0e",
+        "id": "b8e332d351b0c265",
         "type": "tabs",
         "children": [
           {
-            "id": "87d3f9e5feb13374",
+            "id": "3b36266d95965128",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Tech/Synopsys/Defensics Fuzzing.canvas",
+                "viewState": {
+                  "x": 73.3851110520723,
+                  "y": 87.7139505844846,
+                  "zoom": -0.40538475684191405
+                }
+              }
             }
           }
         ]
@@ -44,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ipsec",
+                "query": "active directory",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tech/Synopsys/Defensics Fuzzing.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,32 +126,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "87d3f9e5feb13374",
+  "active": "3b36266d95965128",
   "lastOpenFiles": [
+    "Tech/Identity and Access Management (IAM).md",
+    "Tech/Menlo security/MSIP.canvas",
+    "AZ-AP/Misc.md",
+    "Tech/Zscaler/Architecture.md",
+    "Tech/Cloud security/SASE.canvas",
+    "Tech/Cloud security/CASB.canvas",
+    "AZ-AP/Hehe.md",
+    "Tech/Synopsys/BlackDuck.canvas",
+    "Tech/Synopsys/Coverity.canvas",
+    "Tech/Zscaler/Inquiries.md",
+    "Tech/DNS.md",
+    "Tech/DNS record types.md",
+    "images/Zscaler Tunnel mode - Route based.png",
+    "images/Zscaler Tunnel mode - Ztunnel 2.0.png",
+    "images/Pasted Image 20231031161332_348.png",
+    "images/Zscaler Tunnel mode - Local proxy.png",
+    "AZ-AP/VPS network infra.md",
+    "AZ-AP/VPS network infra.png",
+    "Practical_RE-Walkthrough-Chap1-28.canvas",
+    "images/Pasted Image 20231031154202_179.png",
+    "images/Pasted Image 20231031153521_338.png",
+    "images/Pasted Image 20231031153214_098.png",
+    "Tech/Message brokers.md",
+    "Tech/Markov's chain.md",
+    "Tech/Kerberos.md",
+    "Tech/Set-UID Privileged programs and attacks on them.md",
+    "Tech/Tunneling protocols.md",
     "Tech/Windows Authentication Overview.canvas",
     "Tech/Single source of truth.md",
     "Tech/ADFS.md",
-    "Tech/Identity and Access Management (IAM).md",
     "Tech/Identity and Access Management (IAM).png",
-    "Tech/Zscaler/Architecture.md",
     "Tech/IPSec VPN.md",
     "Tech/Windows Internal.md",
-    "Tech/Menlo security/MSIP.canvas",
     "images/PKI.png",
     "Tech/Synopsys/Seeker.canvas",
     "Tech/Untitled.canvas",
     "Tech/Synopsys/Polaris.canvas",
-    "Tech/Synopsys/Defensics Fuzzing.canvas",
-    "Tech/Synopsys/Coverity.canvas",
-    "Tech/Synopsys/CodeDX.canvas",
-    "images/IPSEC VPN IKE phase 2.png",
-    "images/IPSEC VPN IKE phase 1.png",
-    "images/Pasted image 20230814092117.png",
-    "images/Pasted Image 20230813110005_371.png",
-    "images/Pasted Image 20230813111416_494.png",
-    "images/Pasted Image 20230813105830_319.png",
-    "images/Pasted Image 20230813105729_275.png",
-    "images/Pasted image 20230625180635.png",
     "Neurology, Biology, Medical stuff/Endorphin.md",
     "Neurology, Biology, Medical stuff/Oxytocin.md",
     "Neurology, Biology, Medical stuff/Adenasine.md",
@@ -152,21 +173,8 @@
     "Tech/SAML.md",
     "Tech/Zscaler/Zscaler Private Access.md",
     "Tech/Menlo security/Drawing 2023-10-04 17.53.20.excalidraw.md",
-    "Tech/Zscaler/ZTE philosophy + architecture.md",
-    "AZ-AP/Misc.md",
-    "Tech/Zscaler/Zscaler troubleshooting process.canvas",
-    "Cyber range/Cyber range.md",
-    "Tech/Zeek.md",
-    "Tech/Cloud security/SASE.canvas",
     "Tech/Zscaler",
-    "Tech/DNS record types.md",
-    "Tech/Security principles.md",
     "AZ-AP",
-    "Tech/Kerberos.md",
-    "Tech/Menlo security/Menlo isolation platform other notes.md",
-    "Miscellaneous/Vietnam's cybersec law decree 13.md",
-    "Tech/Buffer Overflow.md",
-    "Tech/Heap memory.md",
     "Untitled",
     "Tech/Menlo security",
     "Tech/Cloud security",

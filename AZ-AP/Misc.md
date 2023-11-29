@@ -56,14 +56,14 @@ Questions:
 **Menlo**
 - What are the scenarios for HEAT assessment?
 - How does Menlo's agent-less approach work exactly?
-- How does Menlo's phishing prevention work exactly (e.g when a client inputs sensitive data into a phishing website)?
-- Can Menlo (in Cloud deployments) see sensitive information in isolated email/websites?
+- **How does Menlo's phishing prevention work exactly (e.g when a client inputs sensitive data into a phishing website)?**
+- **Can Menlo (in Cloud deployments) see sensitive information in isolated email/websites?**
 - What is Menlo's mechanism to detect malwares and malicious stuff?
-- How does Menlo prevent malicious exectuables? What if the executable is a zero-day malware and hasn't appeared in any malware databases? 
+- **How does Menlo prevent malicious exectuables? What if the executable is a zero-day malware and hasn't appeared in any malware databases?** 
 - How does Menlo improve the security posture, as a whole, for the following system:
 > Data -> DC (using LGSP, connected to API Gateway, already with end-to-end encryption), DC -> Headquarter (HQ will mine those data).
 
-- If Menlo's deployed on-premise, where is the malware database stored?
+- **If Menlo's deployed on-premise, where is the malware database stored?**
 
 **Illumio**
 - How does Illumio's ZTS differ from Palo Alto's micro-firewall?
@@ -147,7 +147,6 @@ OneLogin's statements:
 - EVN WAN how are they connected from DataCentre to Office LAN?
 - What is PC WAN
 
-
 Zscaler questions:
 - deployment model => compare agent-based vs agent-less?
 - Multiple IT & OT infra needs 1 or multiple Zscaler systems? => 1 Zscaler system
@@ -172,5 +171,57 @@ Zscaler questions:
 		- IdP solution (Menlo,...) to integrate w/
 		- Size of company, Deal size (budget) (general VNPT's background)
 
-# 10/13
+# 10/30
+VPS important questions:
+- With your current sec stack, do you meet any problems? _(Were you forced here or are you truly interested?)_
+- What solutions are in place to protect users when accessing Internet?
+- How far along are you and the other vendors? How do you feel about them vendors?
+
+# 10/31
+- VPS:
+    - Complementation with existing Checkpoint? FW
+    - CASB detailed functionalities (up/download Skype - already achievable w/ existing solutions)
+    - Cookie storage mechanism in DVC?
+    - What if Checkmarx?’s category engine says allow but Webroot’s says deny?
+    - On-prem architecture (what is deployed on-prem exactly? 1 server takes care of all DVC, URL filtering, DLP?)
+    - File download/upload demo?
+    - Web app control can?
+    - FW is currently deny all
+    - A Đóa, a Nam, a Kiên, c Linh
+
+# 11/2
+**MSB:**
+
+- Anh Tu + anh Hoai (SOC), anh Luyen (architecture), anh Manh (head of Pentest + Redteam)
+- SWG + Email sec by Cisco, WAF
+- Email sec deletes original doc content if macro is malicious
+- DLP + AV McAfee (Trellix)
+- Workforce much remote + hybrid
+- Remote VPN split tunnel (internal resource → VPN, internet access → not through VPN → No Internet Security), no performance issue
+- Very little cloud usage (OpenShift priv. cloud)
+**Inquires:**
+- Can Menlo isolate email attachment if user click Save As instead of opening the doc first?
+- **3rd party DLP integration can?**
+- **Menlo’s AI engine’s new IoC able to be pulled by other solutions?**
+- Ad banner phishing stealing device’s metadata prevention how?
+- on-prem/hybrid model?
+- **Allow original download only for certain people/sites can?**
+
+# 11/17
+Zscaler FAQ:
+- Can admin in certain countries see only logs for that countries? -> No
+- SSL handshake failure is a common problem because of Cert pinning (a website not allowing SSL inspection) -> SSL inspection bypass for that website solves the problem
+- Can use URL lookup tool on the dashboard to look up the URL's category
+- 2 ways to bypass: App profile or PAC file
+- If device is logged out of ZCC, the mobile portal shows it as "Removed". For this, the admin can set a policy to remove the Removed devices after a certain time
+- What are the Organization/Location/Department Admin scope?
 - 
+
+# 11/21
+- clientevent appear in dev tools for isolated sites
+- ACR1 mirrors DOM tree, ACR2 mirrors the very pixel
+
+# 11/22
+2 functions of the email Transform:
+- Attachment wrapping - HTML wrapping
+- Safe PDF addition
