@@ -413,8 +413,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 650,
-			"versionNonce": 417072144,
+			"version": 654,
+			"versionNonce": 716487712,
 			"isDeleted": false,
 			"id": "zq6SqN57V0uTRQJm-3Pav",
 			"fillStyle": "hachure",
@@ -436,7 +436,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936467,
+			"updated": 1701659503442,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -623,8 +623,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 633,
-			"versionNonce": 60178448,
+			"version": 637,
+			"versionNonce": 1200370720,
 			"isDeleted": false,
 			"id": "dJSkGJK6ULvRext86AkMr",
 			"fillStyle": "hachure",
@@ -646,7 +646,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936469,
+			"updated": 1701659503444,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -750,8 +750,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 751,
-			"versionNonce": 1217066000,
+			"version": 755,
+			"versionNonce": 2065603616,
 			"isDeleted": false,
 			"id": "Rzq818R37cDvyHxppk4A5",
 			"fillStyle": "hachure",
@@ -773,7 +773,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936475,
+			"updated": 1701659503446,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1126,8 +1126,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 545,
-			"versionNonce": 1604488720,
+			"version": 549,
+			"versionNonce": 1395806240,
 			"isDeleted": false,
 			"id": "6BTqkmEguzgjMaxc8DQ9R",
 			"fillStyle": "hachure",
@@ -1154,7 +1154,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					"id": "1chvUiFB"
 				}
 			],
-			"updated": 1699524936494,
+			"updated": 1701659503457,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1220,8 +1220,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 536,
-			"versionNonce": 1040437776,
+			"version": 540,
+			"versionNonce": 99735584,
 			"isDeleted": false,
 			"id": "OURHS-alex_c2J1b66kuq",
 			"fillStyle": "hachure",
@@ -1243,7 +1243,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936490,
+			"updated": 1701659503455,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1351,8 +1351,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 543,
-			"versionNonce": 2109884944,
+			"version": 547,
+			"versionNonce": 884262944,
 			"isDeleted": false,
 			"id": "D19cC4MfQCh359kW5l5s4",
 			"fillStyle": "hachure",
@@ -1374,7 +1374,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936498,
+			"updated": 1701659503459,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1478,8 +1478,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 531,
-			"versionNonce": 243581456,
+			"version": 535,
+			"versionNonce": 847231008,
 			"isDeleted": false,
 			"id": "9nnNeJT1PwGhxpnt5SXFN",
 			"fillStyle": "hachure",
@@ -1506,7 +1506,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					"id": "3FPM6SpV"
 				}
 			],
-			"updated": 1699524936503,
+			"updated": 1701659503461,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1572,8 +1572,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 550,
-			"versionNonce": 57190416,
+			"version": 554,
+			"versionNonce": 130221088,
 			"isDeleted": false,
 			"id": "6e3YT7p0PJR7F0qPi5u0j",
 			"fillStyle": "hachure",
@@ -1595,7 +1595,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936480,
+			"updated": 1701659503448,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1624,8 +1624,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 605,
-			"versionNonce": 923541520,
+			"version": 609,
+			"versionNonce": 512750624,
 			"isDeleted": false,
 			"id": "pRaHrxPdZxA93jDT9wANk",
 			"fillStyle": "hachure",
@@ -1647,7 +1647,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936484,
+			"updated": 1701659503451,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1676,8 +1676,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 535,
-			"versionNonce": 1903123472,
+			"version": 539,
+			"versionNonce": 2012834848,
 			"isDeleted": false,
 			"id": "KpIyQf2LxA51eqbIi_wkc",
 			"fillStyle": "hachure",
@@ -1704,7 +1704,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					"id": "HG1VTCDn"
 				}
 			],
-			"updated": 1699524936485,
+			"updated": 1701659503452,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1770,8 +1770,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 421,
-			"versionNonce": 1900632592,
+			"version": 423,
+			"versionNonce": 1781983264,
 			"isDeleted": false,
 			"id": "3fe41QBvYMhrJGI1R6jrY",
 			"fillStyle": "hachure",
@@ -1781,7 +1781,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 			"opacity": 100,
 			"angle": 0,
 			"x": 1230.4990883410487,
-			"y": -119.52781087016572,
+			"y": -119.52781087016571,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 798.1521824947736,
@@ -1798,7 +1798,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					"id": "cJbFujsO"
 				}
 			],
-			"updated": 1699524936486,
+			"updated": 1701659503452,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2042,8 +2042,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 1752,
-			"versionNonce": 1246553616,
+			"version": 1756,
+			"versionNonce": 1466236960,
 			"isDeleted": false,
 			"id": "1ouQINKdbf5qQxe5K8_2s",
 			"fillStyle": "hachure",
@@ -2065,7 +2065,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936519,
+			"updated": 1701659503467,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2173,8 +2173,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 2553,
-			"versionNonce": 585195024,
+			"version": 2557,
+			"versionNonce": 1062465568,
 			"isDeleted": false,
 			"id": "pK62NG1BdG2U2q1VEJa1Q",
 			"fillStyle": "hachure",
@@ -2196,7 +2196,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936522,
+			"updated": 1701659503469,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2304,8 +2304,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 750,
-			"versionNonce": 830068240,
+			"version": 754,
+			"versionNonce": 4907040,
 			"isDeleted": false,
 			"id": "LFb5DWzxpRKzoEC6GGbe1",
 			"fillStyle": "hachure",
@@ -2327,7 +2327,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936526,
+			"updated": 1701659503472,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2431,8 +2431,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 1043,
-			"versionNonce": 1410747920,
+			"version": 1047,
+			"versionNonce": 1447677984,
 			"isDeleted": false,
 			"id": "q-aR0VM-KUe-99rweT3Rd",
 			"fillStyle": "hachure",
@@ -2459,7 +2459,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					"id": "g7MGVyvo"
 				}
 			],
-			"updated": 1699524936530,
+			"updated": 1701659503474,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2661,8 +2661,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 1589,
-			"versionNonce": 944114192,
+			"version": 1593,
+			"versionNonce": 2011973664,
 			"isDeleted": false,
 			"id": "OzzWmj2VZXbaCDKmUIxu-",
 			"fillStyle": "hachure",
@@ -2684,7 +2684,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936535,
+			"updated": 1701659503477,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2788,8 +2788,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 2267,
-			"versionNonce": 770173456,
+			"version": 2271,
+			"versionNonce": 38275104,
 			"isDeleted": false,
 			"id": "iQ6qo7peUCCnUr6Oftgsv",
 			"fillStyle": "hachure",
@@ -2816,7 +2816,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					"id": "I45d9W04"
 				}
 			],
-			"updated": 1699524936541,
+			"updated": 1701659503483,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2882,8 +2882,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 2214,
-			"versionNonce": 153649680,
+			"version": 2218,
+			"versionNonce": 1576482848,
 			"isDeleted": false,
 			"id": "DmMjyNpV1ewFiScOq6h_M",
 			"fillStyle": "hachure",
@@ -2910,7 +2910,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					"id": "QODhOZud"
 				}
 			],
-			"updated": 1699524936536,
+			"updated": 1701659503478,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3201,8 +3201,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 2122,
-			"versionNonce": 123774480,
+			"version": 2126,
+			"versionNonce": 1941733408,
 			"isDeleted": false,
 			"id": "99BaK0a16yWLYgL1T95Bz",
 			"fillStyle": "hachure",
@@ -3229,7 +3229,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					"id": "j42GS67r"
 				}
 			],
-			"updated": 1699524936543,
+			"updated": 1701659503486,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3295,8 +3295,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 2220,
-			"versionNonce": 786063888,
+			"version": 2224,
+			"versionNonce": 2087909408,
 			"isDeleted": false,
 			"id": "1_Kl5lYWEKY1KIK68T_Sp",
 			"fillStyle": "hachure",
@@ -3323,7 +3323,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					"id": "NUFDmb7y"
 				}
 			],
-			"updated": 1699524936546,
+			"updated": 1701659503489,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3389,8 +3389,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 2269,
-			"versionNonce": 1477778960,
+			"version": 2273,
+			"versionNonce": 871067680,
 			"isDeleted": false,
 			"id": "gyK_xjBhhw4oDq2n0Jp1_",
 			"fillStyle": "hachure",
@@ -3417,7 +3417,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					"id": "IkqzN5Fx"
 				}
 			],
-			"updated": 1699524936549,
+			"updated": 1701659503492,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3558,8 +3558,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 2146,
-			"versionNonce": 1188092432,
+			"version": 2150,
+			"versionNonce": 1369827360,
 			"isDeleted": false,
 			"id": "4lryRPL-yU1ElSLiID9oF",
 			"fillStyle": "hachure",
@@ -3586,7 +3586,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					"id": "j9ySHvJj"
 				}
 			],
-			"updated": 1699524936551,
+			"updated": 1701659503495,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3652,8 +3652,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 1636,
-			"versionNonce": 2125475344,
+			"version": 1638,
+			"versionNonce": 815108128,
 			"isDeleted": false,
 			"id": "Cpk29-o8PewCwbwMd0wDN",
 			"fillStyle": "solid",
@@ -3662,12 +3662,12 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1678.8500651112531,
-			"y": -33.111577019171705,
+			"x": -1678.850065111253,
+			"y": -33.11157701917169,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#228be6",
-			"width": 30.053220969827635,
-			"height": 179.41358331712368,
+			"width": 30.053220969827862,
+			"height": 179.41358331712365,
 			"seed": 831976034,
 			"groupIds": [],
 			"frameId": null,
@@ -3675,7 +3675,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936540,
+			"updated": 1701659503481,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3697,8 +3697,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					0
 				],
 				[
-					-30.053220969827635,
-					-179.41358331712368
+					-30.053220969827862,
+					-179.41358331712365
 				]
 			]
 		},
@@ -3900,8 +3900,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 530,
-			"versionNonce": 1322096144,
+			"version": 534,
+			"versionNonce": 757227552,
 			"isDeleted": false,
 			"id": "CPKEBV8AbmlxscDAv7Rrq",
 			"fillStyle": "solid",
@@ -3923,7 +3923,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936553,
+			"updated": 1701659503498,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3952,8 +3952,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 1499,
-			"versionNonce": 1405833744,
+			"version": 1503,
+			"versionNonce": 1038145568,
 			"isDeleted": false,
 			"id": "yFMkxyAoJUDjiQop9nWLK",
 			"fillStyle": "solid",
@@ -3975,7 +3975,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936554,
+			"updated": 1701659503500,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4083,8 +4083,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 2300,
-			"versionNonce": 642418192,
+			"version": 2304,
+			"versionNonce": 984104992,
 			"isDeleted": false,
 			"id": "lxYpJZ5Y8MWtJY2QyL6yF",
 			"fillStyle": "solid",
@@ -4111,7 +4111,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					"id": "pmcuJvpa"
 				}
 			],
-			"updated": 1699524936556,
+			"updated": 1701659503503,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4256,8 +4256,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 2120,
-			"versionNonce": 1125056016,
+			"version": 2124,
+			"versionNonce": 1190604832,
 			"isDeleted": false,
 			"id": "DZSEuv2zwSM1V6vAQeQeW",
 			"fillStyle": "solid",
@@ -4284,7 +4284,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					"id": "qBzZmFl6"
 				}
 			],
-			"updated": 1699524936558,
+			"updated": 1701659503505,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4392,8 +4392,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 311,
-			"versionNonce": 2114111504,
+			"version": 315,
+			"versionNonce": 1088373792,
 			"isDeleted": false,
 			"id": "_UvdEzChcvsyF9XdgZaX0",
 			"fillStyle": "solid",
@@ -4420,7 +4420,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					"id": "BdotQzyj"
 				}
 			],
-			"updated": 1699524936463,
+			"updated": 1701659503438,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4486,8 +4486,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 540,
-			"versionNonce": 1390684688,
+			"version": 544,
+			"versionNonce": 1578141728,
 			"isDeleted": false,
 			"id": "1ucRVTinGyv4QRhrOivvi",
 			"fillStyle": "solid",
@@ -4514,7 +4514,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					"id": "bxXZdrVJ"
 				}
 			],
-			"updated": 1699524936512,
+			"updated": 1701659503464,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4580,8 +4580,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 2000,
-			"versionNonce": 1691531792,
+			"version": 2002,
+			"versionNonce": 1690413088,
 			"isDeleted": false,
 			"id": "6DSvMfqy-VqrTTRz4dj6p",
 			"fillStyle": "solid",
@@ -4603,7 +4603,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936559,
+			"updated": 1701659503506,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4632,8 +4632,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 2239,
-			"versionNonce": 1154236944,
+			"version": 2241,
+			"versionNonce": 1265547296,
 			"isDeleted": false,
 			"id": "781vT22FFhKoVE1HyHEwr",
 			"fillStyle": "solid",
@@ -4655,7 +4655,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936557,
+			"updated": 1701659503504,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -4783,8 +4783,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 404,
-			"versionNonce": 2111272464,
+			"version": 408,
+			"versionNonce": 2085494816,
 			"isDeleted": false,
 			"id": "av9jQpTBPhbcXdyq9RFwZ",
 			"fillStyle": "solid",
@@ -4811,7 +4811,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					"id": "H3Gr7tb0"
 				}
 			],
-			"updated": 1699524936560,
+			"updated": 1701659503508,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5102,8 +5102,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 926,
-			"versionNonce": 1097859600,
+			"version": 930,
+			"versionNonce": 2061908000,
 			"isDeleted": false,
 			"id": "-hHTpvEhunq0WUc-pk_Lk",
 			"fillStyle": "solid",
@@ -5125,7 +5125,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936578,
+			"updated": 1701659503527,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5154,8 +5154,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 907,
-			"versionNonce": 969063952,
+			"version": 911,
+			"versionNonce": 512667680,
 			"isDeleted": false,
 			"id": "d7YTegPzla9a2XV0jQWn-",
 			"fillStyle": "solid",
@@ -5177,7 +5177,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936578,
+			"updated": 1701659503527,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5206,8 +5206,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 927,
-			"versionNonce": 295074320,
+			"version": 931,
+			"versionNonce": 1551444000,
 			"isDeleted": false,
 			"id": "Tsa0HbEkFWM2MKvdGqEQ7",
 			"fillStyle": "solid",
@@ -5229,7 +5229,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936578,
+			"updated": 1701659503528,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5349,8 +5349,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 284,
-			"versionNonce": 1393859088,
+			"version": 288,
+			"versionNonce": 1750951968,
 			"isDeleted": false,
 			"id": "CtQ0WeM8cZbQFGrCnQxh8",
 			"fillStyle": "solid",
@@ -5372,7 +5372,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936570,
+			"updated": 1701659503516,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5476,8 +5476,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 319,
-			"versionNonce": 1076826640,
+			"version": 323,
+			"versionNonce": 2094553120,
 			"isDeleted": false,
 			"id": "x4oAnf-renTgU10_vA7-p",
 			"fillStyle": "solid",
@@ -5499,7 +5499,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936572,
+			"updated": 1701659503519,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5603,8 +5603,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 301,
-			"versionNonce": 1073597968,
+			"version": 305,
+			"versionNonce": 578342944,
 			"isDeleted": false,
 			"id": "VHV2wN6mL9awaSwndFfwN",
 			"fillStyle": "solid",
@@ -5626,7 +5626,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936573,
+			"updated": 1701659503521,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5900,8 +5900,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 279,
-			"versionNonce": 480982544,
+			"version": 283,
+			"versionNonce": 203792416,
 			"isDeleted": false,
 			"id": "WevV3SO0j5KJWi8j0fwAF",
 			"fillStyle": "solid",
@@ -5923,7 +5923,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936578,
+			"updated": 1701659503528,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -5952,8 +5952,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 290,
-			"versionNonce": 1052832272,
+			"version": 294,
+			"versionNonce": 622073888,
 			"isDeleted": false,
 			"id": "OKfEwcPMGk4oxWnacDNQq",
 			"fillStyle": "solid",
@@ -5975,7 +5975,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936578,
+			"updated": 1701659503528,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6004,8 +6004,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 266,
-			"versionNonce": 1805102608,
+			"version": 270,
+			"versionNonce": 1053069344,
 			"isDeleted": false,
 			"id": "ZV3tm_3sb7YcRaXi3pDLS",
 			"fillStyle": "solid",
@@ -6027,7 +6027,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936578,
+			"updated": 1701659503528,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6184,8 +6184,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 528,
-			"versionNonce": 653224464,
+			"version": 532,
+			"versionNonce": 280430624,
 			"isDeleted": false,
 			"id": "yuRTuOV0Tt4O-6ESiVbJV",
 			"fillStyle": "solid",
@@ -6212,7 +6212,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					"id": "0lN94GQ2"
 				}
 			],
-			"updated": 1699524936580,
+			"updated": 1701659503531,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6353,8 +6353,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 390,
-			"versionNonce": 1838338576,
+			"version": 394,
+			"versionNonce": 2110773280,
 			"isDeleted": false,
 			"id": "UChTZxeFwLXLSQO6OmBTo",
 			"fillStyle": "solid",
@@ -6376,7 +6376,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936585,
+			"updated": 1701659503535,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6484,8 +6484,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 219,
-			"versionNonce": 930188816,
+			"version": 223,
+			"versionNonce": 1804619808,
 			"isDeleted": false,
 			"id": "5QJPXHXiSjUWmJtfFTwvf",
 			"fillStyle": "solid",
@@ -6495,11 +6495,11 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 			"opacity": 100,
 			"angle": 0,
 			"x": -293.9849209380418,
-			"y": -773.6755124342756,
+			"y": -773.6755124342757,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
-			"width": 136.66668140272014,
-			"height": 54.66663502447432,
+			"width": 136.6666814027201,
+			"height": 54.6666350244742,
 			"seed": 900883565,
 			"groupIds": [],
 			"frameId": null,
@@ -6507,7 +6507,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936586,
+			"updated": 1701659503537,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6529,8 +6529,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					0
 				],
 				[
-					-136.66668140272014,
-					-54.66663502447432
+					-136.6666814027201,
+					-54.6666350244742
 				]
 			]
 		},
@@ -6611,8 +6611,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 207,
-			"versionNonce": 611452432,
+			"version": 211,
+			"versionNonce": 2069315616,
 			"isDeleted": false,
 			"id": "YVjXGsVjSYWsZMpVTJHi8",
 			"fillStyle": "solid",
@@ -6634,7 +6634,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936588,
+			"updated": 1701659503539,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6663,8 +6663,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 155,
-			"versionNonce": 1842432528,
+			"version": 157,
+			"versionNonce": 1301465120,
 			"isDeleted": false,
 			"id": "Xb1THr74c8HojzhMKfFhO",
 			"fillStyle": "solid",
@@ -6686,7 +6686,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936587,
+			"updated": 1701659503537,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6828,8 +6828,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 100,
-			"versionNonce": 542661136,
+			"version": 102,
+			"versionNonce": 1091889184,
 			"isDeleted": false,
 			"id": "C1bs7pViJIf7EWnVdtWiL",
 			"fillStyle": "solid",
@@ -6851,7 +6851,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936583,
+			"updated": 1701659503533,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -6880,8 +6880,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "diamond",
-			"version": 1011,
-			"versionNonce": 30631821,
+			"version": 1012,
+			"versionNonce": 262777312,
 			"isDeleted": false,
 			"id": "RYiSHGoE3Jtmmk5zKSjIQ",
 			"fillStyle": "hachure",
@@ -6895,7 +6895,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 350,
-			"height": 198,
+			"height": 270,
 			"seed": 617879587,
 			"groupIds": [],
 			"frameId": null,
@@ -6912,14 +6912,14 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					"type": "arrow"
 				}
 			],
-			"updated": 1696998694396,
+			"updated": 1701659790767,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1197,
-			"versionNonce": 1465521571,
+			"version": 1209,
+			"versionNonce": 330028512,
 			"isDeleted": false,
 			"id": "xniH939a",
 			"fillStyle": "hachure",
@@ -6929,7 +6929,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 			"opacity": 100,
 			"angle": 0,
 			"x": 385.6862707186061,
-			"y": -749.1267972455119,
+			"y": -713.1267972455119,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 162.6703338623047,
@@ -6939,7 +6939,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696998689905,
+			"updated": 1701679743933,
 			"link": "[[Tech/Zscaler/Zscaler Private Access]]",
 			"locked": false,
 			"fontSize": 20,
@@ -6955,8 +6955,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 190,
-			"versionNonce": 2132001296,
+			"version": 206,
+			"versionNonce": 1256788448,
 			"isDeleted": false,
 			"id": "r9_zo8KdISFlVDqsvbZov",
 			"fillStyle": "solid",
@@ -6966,11 +6966,11 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 			"opacity": 100,
 			"angle": 0,
 			"x": -7.0063000005840195,
-			"y": -798.5729141360367,
+			"y": -788.8606439753867,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
-			"width": 296.6970464370123,
-			"height": 65.64097723670602,
+			"width": 298.9213655936522,
+			"height": 89.68734945796643,
 			"seed": 353716451,
 			"groupIds": [],
 			"frameId": null,
@@ -6978,7 +6978,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936590,
+			"updated": 1701679743932,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7000,8 +7000,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					0
 				],
 				[
-					296.6970464370123,
-					65.64097723670602
+					298.9213655936522,
+					89.68734945796643
 				]
 			]
 		},
@@ -7173,8 +7173,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 177,
-			"versionNonce": 829849104,
+			"version": 181,
+			"versionNonce": 942026784,
 			"isDeleted": false,
 			"id": "gL-ojQ4JIMLsJfMQINann",
 			"fillStyle": "solid",
@@ -7201,7 +7201,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					"id": "1fqFVbAx"
 				}
 			],
-			"updated": 1699524936592,
+			"updated": 1701659503543,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7267,8 +7267,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 210,
-			"versionNonce": 1285861904,
+			"version": 214,
+			"versionNonce": 118200352,
 			"isDeleted": false,
 			"id": "F2byGtaXhIOk1AMZCzKcT",
 			"fillStyle": "solid",
@@ -7295,7 +7295,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					"id": "Ad3jGmqC"
 				}
 			],
-			"updated": 1699524936596,
+			"updated": 1701659503546,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7914,8 +7914,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 283,
-			"versionNonce": 2109178384,
+			"version": 287,
+			"versionNonce": 534067232,
 			"isDeleted": false,
 			"id": "oRzykfBEM7lgZBUCmi925",
 			"fillStyle": "solid",
@@ -7937,7 +7937,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936613,
+			"updated": 1701659503560,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -7966,8 +7966,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 272,
-			"versionNonce": 707411472,
+			"version": 276,
+			"versionNonce": 331198496,
 			"isDeleted": false,
 			"id": "M9F18KUiAlf6y8p7Wr7yk",
 			"fillStyle": "solid",
@@ -7989,7 +7989,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936616,
+			"updated": 1701659503562,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -8093,8 +8093,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 294,
-			"versionNonce": 773716496,
+			"version": 298,
+			"versionNonce": 300427296,
 			"isDeleted": false,
 			"id": "ZiTy6oqCE6dmFM5Dx-7qo",
 			"fillStyle": "solid",
@@ -8116,7 +8116,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936620,
+			"updated": 1701659503565,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -8295,8 +8295,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 262,
-			"versionNonce": 1694877200,
+			"version": 266,
+			"versionNonce": 2125381664,
 			"isDeleted": false,
 			"id": "7ieMZHqT_o4tWU-ZaZMT7",
 			"fillStyle": "solid",
@@ -8318,7 +8318,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936610,
+			"updated": 1701659503557,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -8347,8 +8347,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 425,
-			"versionNonce": 1565701648,
+			"version": 429,
+			"versionNonce": 1909760032,
 			"isDeleted": false,
 			"id": "EJU9R2NdLY3yOr1fKC4G3",
 			"fillStyle": "solid",
@@ -8370,7 +8370,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936625,
+			"updated": 1701659503570,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -8474,8 +8474,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 458,
-			"versionNonce": 1551838736,
+			"version": 462,
+			"versionNonce": 1425248288,
 			"isDeleted": false,
 			"id": "v51k-NpWsee_IrjnFynhr",
 			"fillStyle": "solid",
@@ -8497,7 +8497,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936629,
+			"updated": 1701659503572,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -8696,8 +8696,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 1160,
-			"versionNonce": 1897389584,
+			"version": 1164,
+			"versionNonce": 1491136544,
 			"isDeleted": false,
 			"id": "fkGCR-so3K6EVfJhzoXmj",
 			"fillStyle": "solid",
@@ -8719,7 +8719,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936655,
+			"updated": 1701659503602,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -8898,8 +8898,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 1539,
-			"versionNonce": 693702160,
+			"version": 1543,
+			"versionNonce": 1136611360,
 			"isDeleted": false,
 			"id": "pTw5YEvnd4d-SkCp9IyZL",
 			"fillStyle": "solid",
@@ -8908,12 +8908,12 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 289.57968990891635,
-			"y": 1644.6474589427467,
+			"x": 289.5796899089168,
+			"y": 1644.6474589427473,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
-			"width": 136.4681079286955,
-			"height": 135.60674922620478,
+			"width": 136.46810792869567,
+			"height": 135.6067492262041,
 			"seed": 885184845,
 			"groupIds": [],
 			"frameId": null,
@@ -8921,7 +8921,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936639,
+			"updated": 1701659503581,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -8943,15 +8943,15 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					0
 				],
 				[
-					-136.4681079286955,
-					135.60674922620478
+					-136.46810792869567,
+					135.6067492262041
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 1732,
-			"versionNonce": 735627792,
+			"version": 1736,
+			"versionNonce": 637650976,
 			"isDeleted": false,
 			"id": "teUZQ3GUasETo6YO_6G2p",
 			"fillStyle": "solid",
@@ -8960,12 +8960,12 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 327.9783847008609,
-			"y": 1671.9148078509525,
+			"x": 327.9783847008646,
+			"y": 1671.9148078509536,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
-			"width": 6.004438979280792,
-			"height": 122.47743888844661,
+			"width": 6.004438979283634,
+			"height": 122.4774388884457,
 			"seed": 1200854275,
 			"groupIds": [],
 			"frameId": null,
@@ -8973,7 +8973,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936641,
+			"updated": 1701659503583,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -8995,8 +8995,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					0
 				],
 				[
-					-6.004438979280792,
-					122.47743888844661
+					-6.004438979283634,
+					122.4774388884457
 				]
 			]
 		},
@@ -9077,8 +9077,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 1358,
-			"versionNonce": 647595536,
+			"version": 1362,
+			"versionNonce": 1141260320,
 			"isDeleted": false,
 			"id": "gyMATVWHVW7AnB1izan52",
 			"fillStyle": "solid",
@@ -9087,12 +9087,12 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 233.68135427011458,
-			"y": 1570.3032524726402,
+			"x": 233.68135426092448,
+			"y": 1570.3032524641808,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
-			"width": 94.17338118896782,
-			"height": 59.779036638422895,
+			"width": 94.17338117977772,
+			"height": 59.77903664046244,
 			"seed": 1884353229,
 			"groupIds": [],
 			"frameId": null,
@@ -9100,7 +9100,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936643,
+			"updated": 1701659503585,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -9122,15 +9122,15 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					0
 				],
 				[
-					-94.17338118896782,
-					59.779036638422895
+					-94.17338117977772,
+					59.77903664046244
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 885,
-			"versionNonce": 237214224,
+			"version": 889,
+			"versionNonce": 1463511072,
 			"isDeleted": false,
 			"id": "1a9czZn3B7BYoBxlL2XZU",
 			"fillStyle": "solid",
@@ -9152,7 +9152,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936655,
+			"updated": 1701659503602,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -9572,8 +9572,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 1569,
-			"versionNonce": 1040122384,
+			"version": 1573,
+			"versionNonce": 1287927840,
 			"isDeleted": false,
 			"id": "34UyXCPFo-eu9eUWre6rv",
 			"fillStyle": "solid",
@@ -9595,7 +9595,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936662,
+			"updated": 1701659503610,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -9624,8 +9624,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 1936,
-			"versionNonce": 2133227024,
+			"version": 1940,
+			"versionNonce": 1202462752,
 			"isDeleted": false,
 			"id": "AWKBjATmBaltgGGEwNxCJ",
 			"fillStyle": "solid",
@@ -9652,7 +9652,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					"id": "3MvsjUfn"
 				}
 			],
-			"updated": 1699524936648,
+			"updated": 1701659503591,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -9718,8 +9718,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 1927,
-			"versionNonce": 376630800,
+			"version": 1931,
+			"versionNonce": 1124798496,
 			"isDeleted": false,
 			"id": "7AxeHpvXXnTBCpaeRVnzZ",
 			"fillStyle": "solid",
@@ -9728,12 +9728,12 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 690.1407830911448,
-			"y": 1529.940858547166,
+			"x": 690.1417735098534,
+			"y": 1529.9419956273173,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
-			"width": 41.75317197228992,
-			"height": 7.687904187099775,
+			"width": 41.75416239099843,
+			"height": 7.687726295185712,
 			"seed": 1571679843,
 			"groupIds": [],
 			"frameId": null,
@@ -9741,7 +9741,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936651,
+			"updated": 1701659503594,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -9763,15 +9763,15 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					0
 				],
 				[
-					-41.75317197228992,
-					7.687904187099775
+					-41.75416239099843,
+					7.687726295185712
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 1621,
-			"versionNonce": 1140501008,
+			"version": 1625,
+			"versionNonce": 358451232,
 			"isDeleted": false,
 			"id": "iUGnx2lmFXgcGPQxI1kWw",
 			"fillStyle": "solid",
@@ -9793,7 +9793,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936652,
+			"updated": 1701659503595,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -9822,8 +9822,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 1548,
-			"versionNonce": 1203987984,
+			"version": 1552,
+			"versionNonce": 1601306656,
 			"isDeleted": false,
 			"id": "Gzjn0OXZxdmmBOFciNDmv",
 			"fillStyle": "solid",
@@ -9845,7 +9845,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936653,
+			"updated": 1701659503597,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -10036,8 +10036,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 158,
-			"versionNonce": 1166877200,
+			"version": 162,
+			"versionNonce": 415791136,
 			"isDeleted": false,
 			"id": "HW0sMFQciB5_l7pgykeWg",
 			"fillStyle": "solid",
@@ -10059,7 +10059,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936655,
+			"updated": 1701659503602,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -10088,8 +10088,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 87,
-			"versionNonce": 1886410256,
+			"version": 91,
+			"versionNonce": 1800921120,
 			"isDeleted": false,
 			"id": "WBPklbcbMXaGGclCfqAxj",
 			"fillStyle": "solid",
@@ -10111,7 +10111,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936656,
+			"updated": 1701659503604,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -10140,8 +10140,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 82,
-			"versionNonce": 2076054032,
+			"version": 86,
+			"versionNonce": 213276704,
 			"isDeleted": false,
 			"id": "ynYAELNiTiTdd9bCvrY2f",
 			"fillStyle": "solid",
@@ -10163,7 +10163,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936657,
+			"updated": 1701659503604,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -10192,8 +10192,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "rectangle",
-			"version": 820,
-			"versionNonce": 1372661177,
+			"version": 853,
+			"versionNonce": 983290912,
 			"isDeleted": false,
 			"id": "_4kK-BQUJbutZSBVjSp71",
 			"fillStyle": "solid",
@@ -10202,8 +10202,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 665.7134069688223,
-			"y": 1842.4903623045077,
+			"x": 597.6367073409108,
+			"y": 2350.9813122209016,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 197,
@@ -10224,14 +10224,14 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					"type": "arrow"
 				}
 			],
-			"updated": 1697081772554,
+			"updated": 1701659518493,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 932,
-			"versionNonce": 66455193,
+			"version": 965,
+			"versionNonce": 2085376032,
 			"isDeleted": false,
 			"id": "iwOZvpK6",
 			"fillStyle": "solid",
@@ -10240,8 +10240,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 675.9134878404043,
-			"y": 1875.9903623045077,
+			"x": 607.8367882124928,
+			"y": 2384.4813122209016,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
 			"width": 176.59983825683594,
@@ -10251,7 +10251,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1697081772554,
+			"updated": 1701659518493,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -10267,8 +10267,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 1633,
-			"versionNonce": 600624656,
+			"version": 1703,
+			"versionNonce": 1598998560,
 			"isDeleted": false,
 			"id": "RtYIvcVY58bzVgzWy094p",
 			"fillStyle": "solid",
@@ -10277,12 +10277,12 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 803.1153651591862,
-			"y": 2091.5973152540782,
+			"x": 801.5486015960339,
+			"y": 2203.70553467815,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#a5d8ff",
-			"width": 10.700768264425164,
-			"height": 147.6524881713708,
+			"width": 128.2210515029276,
+			"height": 137.8213127645522,
 			"seed": 1433087543,
 			"groupIds": [],
 			"frameId": null,
@@ -10295,7 +10295,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					"id": "ppqz8tRW"
 				}
 			],
-			"updated": 1699524936658,
+			"updated": 1701659518494,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -10317,8 +10317,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					0
 				],
 				[
-					10.700768264425164,
-					-147.6524881713708
+					-128.2210515029276,
+					137.8213127645522
 				]
 			]
 		},
@@ -10440,8 +10440,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 1569,
-			"versionNonce": 1818003984,
+			"version": 1573,
+			"versionNonce": 1966688288,
 			"isDeleted": false,
 			"id": "uDA7X1i0Yrk7DBgl7_0B2",
 			"fillStyle": "solid",
@@ -10468,7 +10468,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					"id": "u1a4nPVf"
 				}
 			],
-			"updated": 1699524936660,
+			"updated": 1701659503608,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -10617,8 +10617,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 1269,
-			"versionNonce": 512867856,
+			"version": 1273,
+			"versionNonce": 283947040,
 			"isDeleted": false,
 			"id": "9827aooKTckXnkfV5h4-Z",
 			"fillStyle": "solid",
@@ -10645,7 +10645,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					"id": "AxOAP3yX"
 				}
 			],
-			"updated": 1699524936662,
+			"updated": 1701659503611,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -10711,8 +10711,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 56,
-			"versionNonce": 1319467536,
+			"version": 60,
+			"versionNonce": 1331111968,
 			"isDeleted": false,
 			"id": "bO36OGcvdyXW4OFxmbVL_",
 			"fillStyle": "solid",
@@ -10734,7 +10734,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1699524936662,
+			"updated": 1701659503612,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -10838,8 +10838,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 85,
-			"versionNonce": 570045968,
+			"version": 89,
+			"versionNonce": 1602461728,
 			"isDeleted": false,
 			"id": "ymmyyGlrxiHj-tdEneEoW",
 			"fillStyle": "solid",
@@ -10866,7 +10866,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					"id": "zYGFvJn2"
 				}
 			],
-			"updated": 1699524936664,
+			"updated": 1701659503614,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -11011,8 +11011,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 51,
-			"versionNonce": 2085614096,
+			"version": 55,
+			"versionNonce": 955389984,
 			"isDeleted": false,
 			"id": "-o-tXM_U2GdLj0fToNAL6",
 			"fillStyle": "solid",
@@ -11039,7 +11039,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					"id": "1bS9GuHs"
 				}
 			],
-			"updated": 1699524936666,
+			"updated": 1701659503617,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -11180,8 +11180,8 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		},
 		{
 			"type": "arrow",
-			"version": 44,
-			"versionNonce": 620653072,
+			"version": 48,
+			"versionNonce": 1167394848,
 			"isDeleted": false,
 			"id": "qVMWuTu69pMdNb6AI2k4y",
 			"fillStyle": "solid",
@@ -11208,7 +11208,7 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 					"id": "ezBMTPy3"
 				}
 			],
-			"updated": 1699524936668,
+			"updated": 1701659503622,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -11273,28 +11273,28 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 			"baseline": 17
 		},
 		{
-			"id": "1wGuzT9U4mwuoQ6oi2iXm",
 			"type": "image",
-			"x": 1979.494737283796,
-			"y": -931.5647224559656,
-			"width": 555.6118849440129,
-			"height": 406.1217969979484,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "#ffc9c9",
+			"version": 21,
+			"versionNonce": 1876018928,
+			"isDeleted": false,
+			"id": "1wGuzT9U4mwuoQ6oi2iXm",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1979.494737283796,
+			"y": -931.5647224559656,
+			"strokeColor": "transparent",
+			"backgroundColor": "#ffc9c9",
+			"width": 555.6118849440129,
+			"height": 406.1217969979484,
+			"seed": 1974782992,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1974782992,
-			"version": 21,
-			"versionNonce": 1876018928,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1699524865360,
 			"link": null,
 			"locked": false,
@@ -11306,28 +11306,28 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 			]
 		},
 		{
-			"id": "SLTaVK0dre0Bl-wiyC6Up",
 			"type": "image",
-			"x": 1991.7795984736563,
-			"y": -464.88032636669595,
-			"width": 632.031483828086,
-			"height": 384.92473008141076,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "#ffc9c9",
+			"version": 94,
+			"versionNonce": 1029339664,
+			"isDeleted": false,
+			"id": "SLTaVK0dre0Bl-wiyC6Up",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1991.7795984736563,
+			"y": -464.88032636669595,
+			"strokeColor": "transparent",
+			"backgroundColor": "#ffc9c9",
+			"width": 632.031483828086,
+			"height": 384.92473008141076,
+			"seed": 545378544,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 545378544,
-			"version": 94,
-			"versionNonce": 1029339664,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1699524910267,
 			"link": null,
 			"locked": false,
@@ -11339,28 +11339,28 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 			]
 		},
 		{
-			"id": "-4CrPToirP5HOeaEaE5Wf",
 			"type": "image",
-			"x": 2715.4274337297843,
-			"y": -747.3608698349152,
-			"width": 691.8257765852385,
-			"height": 430.4693720974817,
-			"angle": 0,
-			"strokeColor": "transparent",
-			"backgroundColor": "#ffc9c9",
+			"version": 48,
+			"versionNonce": 921547504,
+			"isDeleted": false,
+			"id": "-4CrPToirP5HOeaEaE5Wf",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 0,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2715.4274337297843,
+			"y": -747.3608698349152,
+			"strokeColor": "transparent",
+			"backgroundColor": "#ffc9c9",
+			"width": 691.8257765852385,
+			"height": 430.4693720974817,
+			"seed": 1177212432,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1177212432,
-			"version": 48,
-			"versionNonce": 921547504,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1699524935298,
 			"link": null,
 			"locked": false,
@@ -11387,10 +11387,10 @@ e9fea75180da0dc122b0e9e1266b1f6e19981add: [[Zscaler Tunnel mode - Ztunnel 2.0.pn
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -1750.1583726002773,
-		"scrollY": 1042.3351342981032,
+		"scrollX": 391.20406814392766,
+		"scrollY": 932.9340288278299,
 		"zoom": {
-			"value": 0.48747367769470656
+			"value": 0.48701885489550467
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

@@ -30,7 +30,7 @@ Segment Group ^EgdoWFtt
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.19",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.24",
 	"elements": [
 		{
 			"type": "ellipse",
@@ -176,8 +176,8 @@ Segment Group ^EgdoWFtt
 		},
 		{
 			"type": "rectangle",
-			"version": 18,
-			"versionNonce": 689910275,
+			"version": 19,
+			"versionNonce": 272304608,
 			"isDeleted": false,
 			"id": "LTyn_40_xYoy3Ykx78XQh",
 			"fillStyle": "solid",
@@ -206,9 +206,13 @@ Segment Group ^EgdoWFtt
 				{
 					"id": "mp9d1I0UXIfUnvBPNRek1",
 					"type": "arrow"
+				},
+				{
+					"id": "c1BXAsUZqISIHyMWtvYMP",
+					"type": "arrow"
 				}
 			],
-			"updated": 1696997463691,
+			"updated": 1701679963447,
 			"link": null,
 			"locked": false
 		},
@@ -405,8 +409,8 @@ Segment Group ^EgdoWFtt
 		},
 		{
 			"type": "arrow",
-			"version": 248,
-			"versionNonce": 1319729859,
+			"version": 252,
+			"versionNonce": 878879776,
 			"isDeleted": false,
 			"id": "RfGl5lmrQiHOOSwRaCLJs",
 			"fillStyle": "solid",
@@ -415,12 +419,12 @@ Segment Group ^EgdoWFtt
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 434.58328247070324,
-			"y": 175.48635034219208,
+			"x": 434.5832824707031,
+			"y": 175.5086164902517,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 123.66677856445301,
-			"height": 7.208281349344105,
+			"width": 123.66677856445312,
+			"height": 7.219068596751555,
 			"seed": 1002248269,
 			"groupIds": [],
 			"frameId": null,
@@ -428,7 +432,7 @@ Segment Group ^EgdoWFtt
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696998119052,
+			"updated": 1701659776011,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -450,8 +454,8 @@ Segment Group ^EgdoWFtt
 					0
 				],
 				[
-					123.66677856445301,
-					-7.208281349344105
+					123.66677856445312,
+					-7.219068596751555
 				]
 			]
 		},
@@ -540,8 +544,8 @@ Segment Group ^EgdoWFtt
 		},
 		{
 			"type": "arrow",
-			"version": 38,
-			"versionNonce": 384303245,
+			"version": 42,
+			"versionNonce": 778015776,
 			"isDeleted": false,
 			"id": "mp9d1I0UXIfUnvBPNRek1",
 			"fillStyle": "solid",
@@ -563,7 +567,7 @@ Segment Group ^EgdoWFtt
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696998105667,
+			"updated": 1701659776015,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -592,8 +596,8 @@ Segment Group ^EgdoWFtt
 		},
 		{
 			"type": "arrow",
-			"version": 223,
-			"versionNonce": 455159085,
+			"version": 227,
+			"versionNonce": 174359584,
 			"isDeleted": false,
 			"id": "9ulF7YVG8a02gZfN7Ddzk",
 			"fillStyle": "solid",
@@ -602,12 +606,12 @@ Segment Group ^EgdoWFtt
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 583.7507283947662,
+			"x": 583.7760536243941,
 			"y": 100.26043701171875,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 19.052195281409467,
-			"height": 48.00006103515625,
+			"width": 19.038277592872873,
+			"height": 48.00006103515624,
 			"seed": 533056685,
 			"groupIds": [],
 			"frameId": null,
@@ -615,18 +619,18 @@ Segment Group ^EgdoWFtt
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1696998170912,
+			"updated": 1701659776022,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "AmRjfm2SQ0JIMCqjie9Ps",
-				"focus": -0.7965604650911289,
-				"gap": 3.333343505859375
+				"gap": 3.333343505859375,
+				"focus": -0.7965604650911289
 			},
 			"endBinding": {
 				"elementId": "6cfa68bvgYnbTC7Sids-Z",
-				"focus": -0.25356973552624557,
-				"gap": 6.5
+				"gap": 6.5,
+				"focus": -0.25356973552624557
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -637,15 +641,15 @@ Segment Group ^EgdoWFtt
 					0
 				],
 				[
-					19.052195281409467,
-					-48.00006103515625
+					19.038277592872873,
+					-48.00006103515624
 				]
 			]
 		},
 		{
 			"type": "diamond",
-			"version": 156,
-			"versionNonce": 480695907,
+			"version": 173,
+			"versionNonce": 1663697376,
 			"isDeleted": false,
 			"id": "5gk0KoOeaL1q7g6rVrPJS",
 			"fillStyle": "solid",
@@ -654,8 +658,8 @@ Segment Group ^EgdoWFtt
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -194.91665649414062,
-			"y": -406.07293701171875,
+			"x": 101.25789571711726,
+			"y": -431.55031784709576,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 249,
@@ -670,16 +674,20 @@ Segment Group ^EgdoWFtt
 				{
 					"type": "text",
 					"id": "j3rhtJiY"
+				},
+				{
+					"id": "c1BXAsUZqISIHyMWtvYMP",
+					"type": "arrow"
 				}
 			],
-			"updated": 1696997515305,
+			"updated": 1701679963447,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 279,
-			"versionNonce": 48501251,
+			"version": 295,
+			"versionNonce": 1501590560,
 			"isDeleted": false,
 			"id": "j3rhtJiY",
 			"fillStyle": "solid",
@@ -688,8 +696,8 @@ Segment Group ^EgdoWFtt
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -123.7365951538086,
-			"y": -371.07293701171875,
+			"x": 172.4379570574493,
+			"y": -396.55031784709576,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 107.13987731933594,
@@ -699,7 +707,7 @@ Segment Group ^EgdoWFtt
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696997515305,
+			"updated": 1701679959118,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -793,12 +801,64 @@ Segment Group ^EgdoWFtt
 			"baseline": 17
 		},
 		{
-			"id": "pfUB9-abR68dRTOQn0lAb",
 			"type": "arrow",
-			"x": 621.8820175439598,
+			"version": 63,
+			"versionNonce": 1139407904,
+			"isDeleted": false,
+			"id": "pfUB9-abR68dRTOQn0lAb",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 621.8274162980753,
 			"y": -52.906280517578125,
-			"width": 92.59118542508713,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 92.5523551851544,
 			"height": 77.33331298828125,
+			"seed": 1497616035,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1701659776022,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "6cfa68bvgYnbTC7Sids-Z",
+				"gap": 10.666656494140625,
+				"focus": 0.6318639650514489
+			},
+			"endBinding": {
+				"elementId": "1xtOZbEAFmIriBksKZxnE",
+				"gap": 7.33331298828125,
+				"focus": 0.4528222906432775
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-92.5523551851544,
+					-77.33331298828125
+				]
+			]
+		},
+		{
+			"id": "c1BXAsUZqISIHyMWtvYMP",
+			"type": "arrow",
+			"x": 228.48136307082666,
+			"y": -310.8087072872233,
+			"width": 29.723643370771583,
+			"height": 114.64821375919661,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -812,12 +872,12 @@ Segment Group ^EgdoWFtt
 			"roundness": {
 				"type": 2
 			},
-			"seed": 1497616035,
-			"version": 59,
-			"versionNonce": 250578413,
+			"seed": 281668640,
+			"version": 26,
+			"versionNonce": 35683360,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1696998170913,
+			"updated": 1701679971990,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -826,22 +886,22 @@ Segment Group ^EgdoWFtt
 					0
 				],
 				[
-					-92.59118542508713,
-					-77.33331298828125
+					29.723643370771583,
+					114.64821375919661
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
-				"elementId": "6cfa68bvgYnbTC7Sids-Z",
-				"focus": 0.6318639650514489,
-				"gap": 10.666656494140625
+				"elementId": "5gk0KoOeaL1q7g6rVrPJS",
+				"focus": 0.10461345196806954,
+				"gap": 1.8504471364105584
 			},
 			"endBinding": {
-				"elementId": "1xtOZbEAFmIriBksKZxnE",
-				"focus": 0.4528222906432775,
-				"gap": 7.33331298828125
+				"elementId": "LTyn_40_xYoy3Ykx78XQh",
+				"focus": 0.1320147209398379,
+				"gap": 3.0875565163079273
 			},
-			"startArrowhead": null,
+			"startArrowhead": "arrow",
 			"endArrowhead": "arrow"
 		}
 	],
@@ -858,12 +918,12 @@ Segment Group ^EgdoWFtt
 		"currentItemFontFamily": 1,
 		"currentItemFontSize": 20,
 		"currentItemTextAlign": "left",
-		"currentItemStartArrowhead": null,
+		"currentItemStartArrowhead": "arrow",
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 46.25,
-		"scrollY": 293.76043701171875,
+		"scrollX": 526.5514659570845,
+		"scrollY": 618.9589716361094,
 		"zoom": {
-			"value": 1
+			"value": 0.6280080398917202
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

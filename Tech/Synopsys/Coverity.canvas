@@ -22,7 +22,13 @@
 		{"type":"text","text":"Coverity-build","id":"ffe29878c5da71da","x":-610,"y":441,"width":250,"height":60,"color":"6"},
 		{"type":"text","text":"Coverity-capture","id":"17a280a09f110fd6","x":-620,"y":633,"width":250,"height":60,"color":"6"},
 		{"type":"text","text":"**Projects (releases), Streams (branch in a Version Control), Snapshots (historical scan result/state of a Stream)**","id":"6d4b5ba9875691a8","x":-735,"y":91,"width":271,"height":124},
-		{"id":"e56bc273e0cda7d6","x":-951,"y":-176,"width":250,"height":60,"type":"text","text":"**SCM**"}
+		{"id":"e56bc273e0cda7d6","type":"text","text":"**SCM**","x":-951,"y":-176,"width":250,"height":60},
+		{"id":"b67f534357872c0f","type":"text","text":"False negative","x":1075,"y":-395,"width":250,"height":60},
+		{"id":"e1daa564ad88ccdc","x":1075,"y":-527,"width":250,"height":60,"type":"text","text":"False positive"},
+		{"id":"3c5feea08291395f","x":1501,"y":-261,"width":250,"height":60,"type":"text","text":"CodeXM checkers"},
+		{"id":"711ab9e048b0f17a","x":1501,"y":-365,"width":250,"height":60,"type":"text","text":"Models and primitives (C, C++, C#, Java, Go)"},
+		{"id":"7bc2b5c606cecb00","type":"text","text":"Data flows","x":1501,"y":-455,"width":250,"height":60},
+		{"id":"e7320cd764d3fe7a","type":"text","text":"Analysis annotations (C, C++, C#, Java)","x":1501,"y":-557,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"356367410d25f4ca","fromNode":"ec5ffabb2422f512","fromSide":"top","toNode":"4b4df590edb0c153","toSide":"bottom","label":"mode of"},
@@ -48,6 +54,15 @@
 		{"id":"d9e5faaad133dc89","fromNode":"65ff458c81742b8f","fromSide":"top","toNode":"3b8c3d7465d686af","toSide":"bottom","label":"component of"},
 		{"id":"c527cfd7158d72e8","fromNode":"ffe29878c5da71da","fromSide":"right","toNode":"3b8c3d7465d686af","toSide":"bottom","label":"component of"},
 		{"id":"1d417d138499cfc6","fromNode":"17a280a09f110fd6","fromSide":"right","toNode":"3b8c3d7465d686af","toSide":"bottom","label":"component of"},
-		{"id":"6f1dcf648c5af765","fromNode":"3b8c3d7465d686af","fromSide":"left","toNode":"e56bc273e0cda7d6","toSide":"right","label":"can integrate w/"}
+		{"id":"6f1dcf648c5af765","fromNode":"3b8c3d7465d686af","fromSide":"left","toNode":"e56bc273e0cda7d6","toSide":"right","label":"can integrate w/"},
+		{"id":"f781eae7141b23a2","fromNode":"d8441cfbf5472dc8","fromSide":"right","toNode":"e1daa564ad88ccdc","toSide":"left"},
+		{"id":"bb518caffc2cb926","fromNode":"d8441cfbf5472dc8","fromSide":"right","toNode":"b67f534357872c0f","toSide":"left"},
+		{"id":"9a869eb2085045e2","fromNode":"e1daa564ad88ccdc","fromSide":"right","toNode":"711ab9e048b0f17a","toSide":"left"},
+		{"id":"fc10e71df6d80494","fromNode":"b67f534357872c0f","fromSide":"right","toNode":"711ab9e048b0f17a","toSide":"left"},
+		{"id":"2cb57ea2494eff6c","fromNode":"b67f534357872c0f","fromSide":"right","toNode":"3c5feea08291395f","toSide":"left"},
+		{"id":"fbefd20a71e6470d","fromNode":"e1daa564ad88ccdc","fromSide":"right","toNode":"7bc2b5c606cecb00","toSide":"left"},
+		{"id":"16b0961d0aee010e","fromNode":"b67f534357872c0f","fromSide":"right","toNode":"7bc2b5c606cecb00","toSide":"left"},
+		{"id":"b35ae5745187a9d7","fromNode":"b67f534357872c0f","fromSide":"right","toNode":"e7320cd764d3fe7a","toSide":"left"},
+		{"id":"081b30bc036ce9ed","fromNode":"e1daa564ad88ccdc","fromSide":"right","toNode":"e7320cd764d3fe7a","toSide":"left"}
 	]
 }
