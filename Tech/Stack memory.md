@@ -1,0 +1,2 @@
+May be utilized for function parameters as denoted by [Calling conventions](Calling%20conventions.md)
+Utilized by [ABI](Application%20Binary%20Interface.md) to store previous register values between function calls

@@ -61,3 +61,13 @@
 **Resources**
 
 \[1\] [Windows Internals (7th ed.)](https://www.amazon.com/Windows-Internals-Part-architecture-management/dp/0735684189)
+
+### Day 8 (14/02/24)
+I haven't been tending to this documentary as much as I should have.
+
+In the previous 6-7 months, I've been learning RE on and off. What I did could somewhat be summarized as follows:
+- Do a bunch of beginner-level RE CTF challenges, mostly from picoCTF
+- Do even more beginner-level RE CTF challenges on pwnable.kr and root-me
+- Got my hands on a disassembler tool (Ghidra) and a debugger tool (gdb) at a basic level, all thanks to the challenges I did
+- Recently (about a week around), I've been reading The Ghidra book and Reversing: The secrets of Reverse Engineering to try honing my Ghidra as well as general RE skill
+- As of now, I'm doing RE challenges on root-me. I'm being stuck at the very 4th (3rd?) easy challenge, which has convinced me to improve my tool competence
